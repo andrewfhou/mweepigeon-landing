@@ -90,7 +90,7 @@ r/MagicTCG mods have helpfully spun up a new `MKM-ARG` flair, so do reference an
 
 ## Mystery Files
 
-### [Mystery File 01: The Intriguing Interrogation](https://cohost.org/mweepigeon/post/4407242-mystery-file-01-the) - SOLVED
+### [Mystery File 01: The Intriguing Interrogation]({% post_url 2024-02-07-MKMARG-01-Intriguing-Interrogation %}) - SOLVED
 
 > **Crime Scene: The evidence you need to solve this puzzle can be found within the Murders at Karlov Manor Prerelease Packs.**
 >
