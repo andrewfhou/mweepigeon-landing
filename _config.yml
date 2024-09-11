@@ -39,6 +39,7 @@ plugins:
 
 header_pages:
   - about.md
+  - tag-cloud.html
 
 minima:
   skin: dark
