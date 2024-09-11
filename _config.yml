@@ -19,22 +19,34 @@
 # in the templates via {{ site.myvariable }}.
 
 title: hidden dovecote
-author: mweepigeon
-# email: mweepigeon@gmail.com
+author:
+  name: mweepigeon
+  email: mweepigeon@gmail.com
+
 description: >- # this means to ignore newlines until "baseurl:"
   hi! you can call me mweep, or pigeon ^^ I'm a birb/derg thing, and I use
   they/them pronouns. I talk about magic, pens, furry stuff, SFF, and whatever
   else catches my fancy at the moment
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "mweepigeon.gay" # the base hostname & protocol for your site, e.g. http://example.com
-discord_username: mweepigeon
-twitter_username: mweepigeon
-telegram_username: mweepigeon
 
 # Build settings
-theme: minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+
+header_pages:
+  - about.md
+
+minima:
+  skin: dark
+  date_format: "%Y-%m-%d"
+  social_links:
+    - { platform: discord,        user_url: "https://discordapp.com/users/mweepigeon" }
+    - { platform: telegram,       user_url: "https://t.me/mweepigeon" }
+    - { platform: twitter,        user_url: "https://twitter.com/mweepigeon" }
 
 # Exclude from processing.
 # The following items will not be processed, by default.
