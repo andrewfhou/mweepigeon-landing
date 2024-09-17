@@ -21,3 +21,9 @@ So - the custom metadata definitely didn't work the way I wanted to. Tagging is 
 Also, I need to see if I can specify a file format to confirm with what Jekyll is expecting there.
 
 That said, solvable problems, and fundamentally I can now make a post by just opening a new "note" in GitJournal. yippee!
+
+---
+
+Oh, I see. There's a number of fields that can be automatically populated but I can't configure that, what I can do is add additional entries to the YAML. So I just use the built-in date rather than redefining it, though unfortunately the format of the built-ins don't seem to be customizable, meaning I'll have to edit the tags manually.
+
+Also there's no custom custom file name format but I can set it to be the date time in ISO-8601 which is honestly good enough
