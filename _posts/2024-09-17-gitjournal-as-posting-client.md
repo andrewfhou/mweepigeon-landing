@@ -1,6 +1,7 @@
 ---
 layout: post
 title: GitJournal as a "Posting Client"
+date: 2024-09-17T04:20:00+00:00
 tags: meta, jekyll
 categories: null
 ---
