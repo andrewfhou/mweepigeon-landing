@@ -6,7 +6,7 @@ categories: mtg
 tags: mtg MKM RAMI
 ---
 
-# [back to index post]({% post_url 2024-01-08-MKMARG-RAMI-Mystery-Files %})
+## [back to index post]({% post_url 2024-01-08-MKMARG-RAMI-Mystery-Files %})
 
 > Crime Scene: The evidence you need to solve this puzzle can be found within the Murders at Karlov Manor Prerelease Packs.
 >
@@ -52,5 +52,5 @@ This puzzle was originally solved on 01-30, prior to the Mystery File's release 
 <div style="align-items: stretch; display: flex; flex-wrap: wrap; justify-content: space-evenly; text-align: center;"><figure style="display: flex; flex-flow: column; margin: 2px; position: relative; text-decoration: none; width: calc(50% - 4px);"><a href="/assets/images/RAMI/01-gtc-21-murder-investigation.jpg"><img style="height: 100%; margin: 0px; object-fit: cover; width: 100%;" src="/assets/images/RAMI/01-gtc-21-murder-investigation.jpg" alt=""></a></figure><figure style="display: flex; flex-flow: column; margin: 2px; position: relative; text-decoration: none; width: calc(50% - 4px);"><a href="/assets/images/RAMI/01-mkm-86-homicide-investigator.jpg"><img style="height: 100%; margin: 0px; object-fit: cover; width: 100%;" src="/assets/images/RAMI/01-mkm-86-homicide-investigator.jpg" alt=""></a></figure></div><div style="text-align: right; font-size: min(1.87vw, 70%); opacity: 0.7; line-height: 100%;"> made with @nex3's <a href="https://nex3.github.io/cohost-image-grid/">grid generator</a></div>
 </p></details>
 
-# [back to index post]({% post_url 2024-01-08-MKMARG-RAMI-Mystery-Files %})
+## [back to index post]({% post_url 2024-01-08-MKMARG-RAMI-Mystery-Files %})
 

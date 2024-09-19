@@ -96,7 +96,7 @@ r/MagicTCG mods have helpfully spun up a new `MKM-ARG` flair, so do reference an
 >
 > You're going to need to gather some information. You've got questions to ask.
 
-### [Mystery File 02: The Hidden Homunculus](https://cohost.org/mweepigeon/post/4407261-mystery-file-02-the) - SOLVED
+### [Mystery File 02: The Hidden Homunculus]({% post_url 2024-02-07-MKMARG-02-Hidden-Homunculus %}) - SOLVED
 
 > **Crime Scene: The evidence you need to solve this puzzle can be found on certain Murders at Karlov Manor cards.**
 >
