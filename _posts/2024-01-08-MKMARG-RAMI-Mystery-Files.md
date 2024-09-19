@@ -106,7 +106,7 @@ r/MagicTCG mods have helpfully spun up a new `MKM-ARG` flair, so do reference an
 >
 > Once your loop is complete, use the code key to assign numbers to each cell. Add up all the numbers in the top two rows to get an expansion number, and add up all the numbers in the bottom two rows to get a card number.
 
-### [Mystery File 03: The Strange Scenes](https://cohost.org/mweepigeon/post/4407282-mystery-file-03-the) - SOLVED
+### [Mystery File 03: The Strange Scenes]({% post_url 2024-02-07-MKMARG-03-Strange-Scenes %}) - SOLVED
 
 > **Crime Scene: The evidence you need to solve this puzzle can be found on certain Murders at Karlov Manor booster fun cards.**
 >
