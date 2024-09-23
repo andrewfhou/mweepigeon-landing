@@ -7,7 +7,7 @@ tags:
   - recipes
   - food
 ---
-![chili oil dumplings](chili-oil-dumplings.jpg)
+![chili oil dumplings](/assets/images/chili-oil-dumplings.jpg)
 
 they're a super easy, super convenient meal. Boil some frozen dumplings, toss it over your sauce, and call it a day.
 
@@ -18,6 +18,7 @@ I used frozen ones but you can make your own dumplings and freeze them too! In f
 Anyways, to have some actual content - here's how to make a similar sauce and (roughly) the recipe I use for dumplings
 
 ## 水饺 dumplings (pork & cabbage)
+
 ### ingredients
 - ~1 lb ground pork
 - ~1 lb napa cabbage (minced)
@@ -27,6 +28,7 @@ Anyways, to have some actual content - here's how to make a similar sauce and (r
 - ~1.5 tablespoons corn starch
 - ~1/2 tsp salt (for pork)
 - prepared dumpling skins, ~1 lb
+
 ### process
 - add salt to cabbage and wait, squeeze out water
 - add water, soy sauce, sesame oil, corn starch, salt to ground pork, mix
