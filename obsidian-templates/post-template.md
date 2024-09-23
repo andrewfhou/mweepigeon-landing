@@ -1,8 +1,7 @@
 ---
 layout: post
-title: 
-date: "{{date}} {{time:HH:mm:ss ZZ}}"
+title: "{{title}}"
+date: "{{date}} {{time}}"
 categories: 
 tags:
 ---
-a
