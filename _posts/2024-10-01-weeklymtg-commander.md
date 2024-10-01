@@ -47,6 +47,7 @@ The full VOD is available [here on twitch](https://www.twitch.tv/videos/22650554
 
 #### on precons & brackets
 chat question: "I feel like the 1-4 system will limit the reprints in future commander products" ... "aaron how are you thinking about precons and the brackets"
+
 * Aaron: Can't say I've thought a *ton* about it; I'm pretty sure that whatever ends up in the 4th band is not something we would be putting in precons - the armageddons of the world, even things like vampiric tutors. that does make me wonder, if we put a 3 in a precon, does that make the precon a 3? we'll have to think more about that, this is pretty hot off the presses and there will be a lot of things we need to re-evaluate as we poke holes in things
 * Blake: what about sol ring?
 	* Gavin: Sol ring is the iconic commander card. sol ring is not going anywhere, I would expect sol ring to almost be in a "bracket 0". yes, it's very powerful, if it were any other card it would be in any other tier, but it's part of the format.
