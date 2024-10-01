@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2024-10-01 WeeklyMTG Future of Commander Discussion and Q&A Summary/Transcript
+title: 2024-10-01 WeeklyMTG Future of Commander Discussion Summary/Transcript
 date: 2024-10-01 15:22:42 -0400
 categories: mtg
 tags:
