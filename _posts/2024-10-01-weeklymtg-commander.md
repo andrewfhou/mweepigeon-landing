@@ -15,7 +15,7 @@ The full VOD is available [here on twitch](https://www.twitch.tv/videos/22650554
 #### on context/background
 
 * Gavin: We started talking mid last week w/ the RC, different paths forward and collaboration they could do, eventually they all came to the conclusion for the RC to give wizards the format
-* Aaron (on safety): Unfortunately this is not the first time this has happened to wizards employees or high profile community figures; we have protocols for both online and in-person evetns to beef up our security
+* Aaron (on safety): Unfortunately this is not the first time this has happened to wizards employees or high profile community figures; we have protocols for both online and in-person events to beef up our security
 * Gavin: Still all very early, but we don't have firm concrete answers on a lot of things. "although we are managing the format, it remains a community format. that is critical, that is part of commander's success, that is how we have gotten where we are today, that's something we really want to strive to do going forward"
 * Gavin: We are working with RC and CAG trying to figure out what we want to do going forwards, direction we think we're settling on is something akin to what we've done with the Pauper Format Panel. more information as it comes available, but that kind of thing is exactly what we want to be doing here with putting the community at the center
 * Aaron: Community involvement... whatever shape that's going to take is vital
