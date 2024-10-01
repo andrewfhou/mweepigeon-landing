@@ -22,7 +22,7 @@ The full VOD is available [here on twitch](https://www.twitch.tv/videos/22650554
    * gavin: One of the things we're doing w/ management of the format is to reevaluate the banlist. we're not going to be banning any cards as a part of that, whether cards will be unbanned is TBD. want community to be a part of this, so this will be waiting until the panel or analagous structure is in place
    * gavin: One thing I want to stress is that we know that commander moves slowly, we don't want to make changes all the time. we want an initial evaluation, but we're not looking at doing tons and tons of check-ins and changes. stability is a key part of what makes commander commander
    * gavin: Commander will not be aligned to the normal b&r cadence. I could imagine a world where we do quarterly updates like the RC, but that's TBD
-* on the bracket system ([quick example graphic they mocked up](https://imgur.com/0Pj0nXk))
+* on the bracket system ([quick example graphic they mocked up](/assets/bracket-example.png))
    * gavin: Have recently begun talking/collaborating with RC about developing this bracket system. take a lot of staples for commander and divy them up into 4 buckets.
       * bracket 1 are cards any decks can play, staple-y cards, "precon power level"
       * bracket 4 are some of the strongest cards you can play \*and\* many cards people don't want to play against (e.g geddon)
