@@ -24,13 +24,13 @@ The full VOD is available [here on twitch](https://www.twitch.tv/videos/22650554
 * Aaron: I am also here for the love of the game... yes, hasbro wants things my boss wants things... I have a lot of freedom to execute as I see fit for the best thing for magic as a whole. we want people to keep playing, to keep enjoying the game ... that's how we plan on running the banlist and how we've been running card design all these years
 
 #### on the article talking about looking at the banlist
-* Gavin: One of the things we're doing w/ management of the format is to reevaluate the banlist. we're not going to be banning any cards as a part of that, whether cards will be unbanned is TBD. want community to be a part of this, so this will be waiting until the panel or analagous structure is in place
+* Gavin: One of the things we're doing w/ management of the format is to reevaluate the banlist. we're not going to be banning any cards as a part of that, whether cards will be unbanned is TBD. want community to be a part of this, so this will be waiting until the panel or analogous structure is in place
 * Gavin: One thing I want to stress is that we know that commander moves slowly, we don't want to make changes all the time. we want an initial evaluation, but we're not looking at doing tons and tons of check-ins and changes. stability is a key part of what makes commander commander
 * Gavin: Commander will not be aligned to the normal b&r cadence. I could imagine a world where we do quarterly updates like the RC, but that's TBD
 
 #### on the bracket system
 * [quick example graphic they mocked up](/assets/images/bracket-example.png)
-* Gavin: Have recently begun talking/collaborating with RC about developing this bracket system. take a lot of staples for commander and divy them up into 4 buckets.
+* Gavin: Have recently begun talking/collaborating with RC about developing this bracket system. take a lot of staples for commander and divvy them up into 4 buckets.
 	* bracket 1 are cards any decks can play, staple-y cards, "precon power level"
 	* bracket 4 are some of the strongest cards you can play \*and\* many cards people don't want to play against (e.g geddon)
 	* your deck is defined by the highest bracket card in your deck
