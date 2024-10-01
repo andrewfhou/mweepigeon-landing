@@ -9,7 +9,7 @@ tags:
 ---
 This is my rough transcript and summary of the things talked about during today's WeeklyMTG stream. Most of it is not direct quotes but I try to summarize each talking point and preserve the message communicated.
 
-The full VOD is available [here on twitch](https://www.twitch.tv/videos/2265055461)
+The full VOD is available [here on twitch](https://www.twitch.tv/videos/2265055461) or [on youtube](https://www.youtube.com/watch?v=0zZDZ3AgxR4)
 ### preplanned discussion
 
 #### on context/background
