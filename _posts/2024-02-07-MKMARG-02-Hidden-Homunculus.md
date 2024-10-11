@@ -24,6 +24,8 @@ tags:
 
 ---
 
+![](/assets/images/RAMI/02-prompt.png)
+
 Pretty straightforward puzzle to solve, most of the work is figuring out which cards Fblthp is on. Prior to this puzzle's release, the community had collectively identified 3 of those cards, though his appearance was thought to be an easter egg rather than an explicit puzzle
 
 <details>

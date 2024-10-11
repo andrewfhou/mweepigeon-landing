@@ -115,7 +115,7 @@ r/MagicTCG mods have helpfully spun up a new `MKM-ARG` flair, so do reference an
 >
 > To unravel an enigma like this, there must be no borders in your mind.
 
-### [Mystery File 04: The Perplexing Prism](https://cohost.org/mweepigeon/post/4407303-mystery-file-04-the) - SOLVED
+### [Mystery File 04: The Perplexing Prism]({% post_url 2024-02-07-MKMARG-04-Perplexing-Prism %}) - SOLVED
 
 > **Crime Scene: The evidence you need to solve this puzzle can be found on certain Murders at Karlov Manor cards.**
 >
@@ -123,7 +123,7 @@ r/MagicTCG mods have helpfully spun up a new `MKM-ARG` flair, so do reference an
 >
 > After my latest shift on the job, I’ve determined that each guild has hidden an item somewhere around Ravnica. Fill the names of these items in on the chart on this page, one letter per square. Read the indicated letters to find your answer.
 
-### [Mystery File 05: The Confounding Kidnapper](https://cohost.org/mweepigeon/post/4407316-mystery-file-05-the) - SOLVED
+### [Mystery File 05: The Confounding Kidnapper]({% post_url 2024-02-07-MKMARG-05-Confounding-Kidnapper %}) - SOLVED
 
 > **Crime Scene: The evidence you need to solve this puzzle can be found within the four Murders at Karlov Manor Commander Decks.**
 >
