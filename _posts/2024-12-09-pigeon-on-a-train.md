@@ -6,7 +6,7 @@ categories:
 tags:
   - furry
   - mff
-  - "#FurbanismRideMFF24"
+  - FurbanismRideMFF24
 ---
 it's a pigeon on a train!
 
