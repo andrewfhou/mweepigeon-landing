@@ -7,8 +7,7 @@ permalink: /about/
 hi! you can call me mweep, or pigeon ^^ I'm a birb/derg thing, and I use
 they/them pronouns
 
-![pigeon fursona anthro refsheet](/assets/images/refsheet_pigeon-anthro.png)
-![pigeon fursona feral refsheet](/assets/images/refsheet_pigeon-feral.png)
+![Pigeon Fursona Reference Sheet (by Mosspond)](/assets/images/refsheet_pigeon-mosspond.png)
 
 things I might post about:
 
@@ -36,6 +35,3 @@ here is my [moxfield](https://www.moxfield.com/users/mweepigeon)!
 I post a lot of bad decks - I'd consider myself primarily a limited junkie,
 but I've been enjoying Standard a lot, and dabble in other formats as well. I
 do like brewing EDH, though I don't find myself playing it very much these days
-
-
-
