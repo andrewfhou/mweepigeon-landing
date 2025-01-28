@@ -47,6 +47,7 @@ minima:
   social_links:
     - { platform: discord,        user_url: "https://discordapp.com/users/mweepigeon" }
     - { platform: telegram,       user_url: "https://t.me/mweepigeon" }
+    - { platform: bluesky,        user_url: "https://bsky.app/profile/mweepigeon.gay" }
     - { platform: twitter,        user_url: "https://twitter.com/mweepigeon" }
 
 # Exclude from processing.
