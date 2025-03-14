@@ -32,23 +32,35 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "mweepigeon.gay" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-remote_theme: jekyll/minima
+remote_theme: "jekyll/minima@acb0519"
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
 header_pages:
+  - tags.html
   - about.md
-  - tag-cloud.html
 
 minima:
   skin: dark
   date_format: "%Y-%m-%d"
   social_links:
-    - { platform: discord,        user_url: "https://discordapp.com/users/mweepigeon" }
-    - { platform: telegram,       user_url: "https://t.me/mweepigeon" }
-    - { platform: bluesky,        user_url: "https://bsky.app/profile/mweepigeon.gay" }
-    - { platform: twitter,        user_url: "https://twitter.com/mweepigeon" }
+    - title: Discord @mweepigeon
+      icon: discord
+      url: "https://discordapp.com/users/mweepigeon"
+    - title: Telegram @mweepigeon
+      icon: telegram
+      url: "https://t.me/mweepigeon"
+    - title: Bluesky @mweepigeon.gay
+      icon: bluesky
+      url: "https://bsky.app/profile/mweepigeon.gay"
+    - title: Mastodon @mweepigeon@meow.social
+      icon: mastodon
+      url: "https://meow.social/@mweepigeon"
+    #     - { platform: discord,        user_url: "https://discordapp.com/users/mweepigeon" }
+    #     - { platform: telegram,       user_url: "https://t.me/mweepigeon" }
+    #     - { platform: bluesky,        user_url: "https://bsky.app/profile/mweepigeon.gay" }
+    #     - { platform: twitter,        user_url: "https://twitter.com/mweepigeon" }
 
 # Exclude from processing.
 # The following items will not be processed, by default.

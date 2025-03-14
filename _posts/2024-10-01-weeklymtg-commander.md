@@ -3,9 +3,7 @@ layout: post
 title: 2024-10-01 WeeklyMTG Future of Commander Discussion Summary/Transcript
 date: 2024-10-01 15:22:42 -0400
 categories: mtg
-tags:
-  - mtg
-  - commander
+tags: mtg commander
 ---
 This is my rough transcript and summary of the things talked about during today's WeeklyMTG stream. Most of it is not direct quotes but I try to summarize each talking point and preserve the message communicated.
 

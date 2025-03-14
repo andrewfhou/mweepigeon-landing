@@ -3,8 +3,7 @@ layout: post
 title: Link Roundup 2024-10-14
 date: 2024-10-14 20:42:00 -0400
 categories: 
-tags:
-  - link-roundup
+tags: link-roundup
 ---
 ### 1. [Casual Chat | Crapshots E782](https://www.youtube.com/watch?v=NAldLejDjeY)
 

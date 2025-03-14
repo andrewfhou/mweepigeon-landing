@@ -3,10 +3,7 @@ layout: post
 title: Loot Fursuit (uh oh)
 date: 2025-01-29 23:47:37 -0500
 categories: 
-tags:
-  - furry
-  - mtg
-  - loot-fursuit
+tags: furry mtg loot-fursuit
 ---
 So. Somebody gave me a very bad idea.
 

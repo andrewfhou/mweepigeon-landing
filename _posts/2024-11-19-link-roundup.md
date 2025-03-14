@@ -3,8 +3,7 @@ layout: post
 title: Link Roundup 2024-11-19
 date: 2024-11-06 16:12:00 -0500
 categories: 
-tags:
-  - link-roundup
+tags: link-roundup
 ---
 ### 1. [63 Chinese Cuisines - Chinese Cooking Demystified](https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete)
 

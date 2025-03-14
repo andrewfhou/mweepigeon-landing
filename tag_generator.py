@@ -22,6 +22,7 @@ filenames = filenames + glob.glob(draft_dir + '*md')
 
 total_tags = []
 for filename in filenames:
+    print("checking file", filename)
     f = open(filename, 'r', encoding='utf8')
     crawl = False
     for line in f:
@@ -59,4 +60,5 @@ for tag in total_tags:
     write_str = '---\nlayout: tagpage\ntitle: \"Tag: ' + tag + '\"\ntag: ' + tag + '\nrobots: noindex\n---\n'
     f.write(write_str)
     f.close()
+    print("Made tag:", tag)
 print("Tags generated, count", total_tags.__len__())

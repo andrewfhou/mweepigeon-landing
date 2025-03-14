@@ -3,8 +3,7 @@ layout: post
 title: Link Roundup 2024-10-04
 date: 2024-10-04 11:30:00 -0400
 categories: 
-tags:
-  - link-roundup
+tags: link-roundup
 ---
 Figured I'd start doing one of these, since I've been seeing things here and there I want to share. I wouldn't count on this being all that well curated or even presented, it'll purely just be some shit I saw that was cool.
 

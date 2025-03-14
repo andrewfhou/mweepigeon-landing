@@ -3,10 +3,7 @@ layout: post
 title: "Mystery File 05: The Confounding Kidnapper"
 date: 2024-02-07 17:41:00 -0400
 categories: RAMI
-tags:
-  - mtg
-  - MKM
-  - RAMI
+tags: mtg MKM RAMI
 ---
 
 ## [back to index post]({% post_url 2024-01-08-MKMARG-RAMI-Mystery-Files %})
