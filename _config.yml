@@ -41,6 +41,8 @@ header_pages:
   - tags.html
   - about.md
 
+permalink: pretty
+
 minima:
   skin: dark
   date_format: "%Y-%m-%d"
