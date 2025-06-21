@@ -32,7 +32,9 @@ Turn it upside down over some jars and let it drip out 'til the ice is clearish.
 
 For round two, we chuck all those jars back into our gallon and it goes back in the freezer for another day. This time we've got high enough alcohol percentage that it doesn't freeze solid and slushes instead, which we can strain out (I used a steamer because apparently we don't own a colander). Total yield of this round was ~1600ml liquid, so back in the freezer for round three, which put us as that even liter we were looking for.
 
-After that, I split it out into two jars and tossed a cinnamon stick in one to age for a week or so, and 5 grams of light toast oak chips in the other to sit for a few months
+After that, I split it out into two jars and tossed a cinnamon stick in one to age for a week or so, and 5 grams of light toast oak chips in the other to sit for a few months. Tried some of the cinnamon later that day and it was pretty good—I doubt much cinnamon flavor got in, but it was pretty dang smooth and no obvious off-flavors.
 
 ![[applejack_aging.jpg]]
+
+A week later, we give the cinnamon-aged jar a taste and find
 
