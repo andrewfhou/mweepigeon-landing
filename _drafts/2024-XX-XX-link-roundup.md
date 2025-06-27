@@ -9,7 +9,7 @@ tags:
 
 Jorbs video on "dodge" in video games and not getting too attached to your heuristics
 
-### 2. [A New Session](https://anewsession.com/howto)
+### 2. [A New Session](https://anewsession.com/)
 
 A queer online zine only accessible through telnet with somewhat inherently ephemeral content that is changing and adapting every time you look.
 

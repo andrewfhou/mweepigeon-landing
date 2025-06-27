@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Concocting Baleful Brews (Brewing Applejack)
-date: "2025-06-19 14:56:34 -0400"
+date: "2025-06-26 20:27:00 -0400"
 categories: 
 tags: brewing applejack
 ---
@@ -36,5 +36,6 @@ After that, I split it out into two jars and tossed a cinnamon stick in one to a
 
 ![[applejack_aging.jpg]]
 
-A week later, we give the cinnamon-aged jar a taste and find
+Gave it a week to age then thieved a bit to have a taste. Big whiff of alcohol sharpness at first that faded away, and once in the glass it had a definite nose of cinnamon. Almost savory taste that I can't really pin down, but not harsh at all. Fairly dry with some acidity (but not an overwhelming amount, which is what I was worried about with the concentration.) Pleasant cinnamon-spice aftertaste and the apple flavors have faded a lot into the general character. Pretty tasty honestly; I pulled the cinnamon out and this jar will be "done"!
 
+As for the oak, that still has some months to go, but I'm pretty excited for it. I think I'll probably give it a taste at the 3 or 4-week mark to see how it's doing
