@@ -10,7 +10,9 @@ I ran a game of [Jet Lag's Hide + Seek Transit Game](https://store.nebula.tv/pro
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1AYLMwv95ZGOoeMVVZoJIAElfw-_Xx7M&ehbc=2E312F&noprof=1" width="100%" height="480"></iframe>
 
-Our play area was the square formed by the original DC boundaries, encompassing all of DC as well as the portion that was retroceded to Virginia (Arlington and a portion of Alexandria). This sizing put us at a 'small' game size with Metrorail stations as our transit stations and hiding zones. I had considered including high-frequency Metrobus stops in order to bring Georgetown into play, but this was both too sprawling and too annoying to map given my limited ability with GIS software. We did allow players to use busses and bikeshares to get around, but this didn't end up becoming relevant.
+Our play area was the square formed by the original DC boundaries, encompassing all of DC as well as the portion that was retroceded to Virginia (Arlington and a portion of Alexandria). This sizing put us at a 'small' game size with Metrorail stations as our transit stations and hiding zones. I had considered including high-frequency Metrobus stops in order to bring Georgetown into play, but this was both too sprawling and too annoying to map given my limited ability with GIS software. We did allow players to use buses and bikeshares to get around, but this didn't end up becoming relevant.
+
+Oh, and, I removed the Pentagon station. For obvious reasons.
 
 Our starting location was **Metro Center**, since it's central and gives lots of options. At a small game you get 30 minutes to hide and from Metro Center you can get on BOS or R, or walk a few blocks to Chinatown for access to GY. There *were* two stations (Brookland and Fort Totten) closed for maintenance, but they were on the northeast portion of the Red Line and the Green Line would take you to Fort Totten still), with free shuttles replacing the service up to Takoma. We figured it was unlikely anyone would use that, given the difficulty of timing shuttles, but kept it in play for fun.
 
