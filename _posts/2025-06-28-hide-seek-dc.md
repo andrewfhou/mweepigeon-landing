@@ -18,6 +18,8 @@ Since we had a few people that weren't certain if they could make it or not, we 
 
 WMATA has signal repeaters underground and cell signal throughout the area is generally good, so we used Discord for communication and Google Maps for location sharing. This ended up being a bit flaky, so halfway through the first hide we had a second seeker also share location with iOS and repeated this for the second hiding session. Highly recommend redundant location shares.
 
+## Round 1
+
 After all the setup, we began the 30 minute hiding period at **11:55**, with the team of 4 hiding first. At **11:26**, the seekers (team of 3, including myself) asked our first question: **Matching - Nearest Landmass** (with the agreement that the possible landmasses were west of the Potomac, east of the Anacostia, and in between). This turned back a "yes", so we knew they were somewhere in DC proper
 
 ![Matching - Nearest Landmass](/assets/images/hide-and-seek/20250628_landmass1.png)
@@ -50,7 +52,7 @@ At the same time, they also hit us with **Curse of the Lemon Phylactery**. Potom
 
 That was less than ideal, but we couldn't do too much about it now. Later, we agreed to count it as a 10 minute penalty, which is fair enough given that we would have had to head that direction for the ransom note materials anyways. Either way, we grabbed the lemons and a greeting card from Trader Joe's and headed back to Stadium-Armory. It's worth noting that endgame only begins once the seekers are in the zone *and not on transit*, and being in the station counts as being 'on transit', so it may be useful for seekers to announce on comms every time they are exiting a station to reduce ambiguity, especially if GPS is flaky. With Ransom Note in effect, we found a nearby bench to put together our question: "PIC OF A TALL THING" (**Photo of Tallest Structure in Your Current Sightline**)
 
-![Ransom Note text saying "PIC OF A TALL THING"](assets/images/hide-and-seek/20250628_ransom1.jpg)
+![Ransom Note for Picture of Tallest Structure](/assets/images/hide-and-seek/20250628_ransom1.jpg)
 
 While we wait for an answer, we walk around trying to identify the crosswalk they sent. 10 minutes later, at **13:07**, we get our response (as an aside, the hiders stalled the full 5/10m time period for every question. I'm mixed on how I feel about this. On one hand, it's part of the rules and strategy, on the other it's kind of irritating and feels vaguely unsportsmanlike, at least for the non-photo questions where you should be able to answer objectively quickly enough)
 
@@ -76,7 +78,7 @@ Either way, it doesn't actually matter, since we're pretty sure we know where an
 
 Their final time, minus the 10m penalty for Lemon and 8m penalty for the photo question, was **2h25m** (not including 30m hiding period.)
 
----
+## Round 2
 
 We take a break for lunch after this and swap materials, and my team, the new hiders, take our 10 minutes to discuss strategy. We figure we want to get out of the DC landmass for sure, and the question is whether we risk Anacostia (unintuitive, but has bad hiding spots in the zone) or try and leg it to the Virginia portion of the Blue Line, considering the airport and Potomac Yard.
 
@@ -127,6 +129,8 @@ Since their time was 2h25m we only have to hold out until **18:05**. We're fresh
 ![Photo - Tallest Building](/assets/images/hide-and-seek/20250628_tallest1.jpg)
 
 Either way, that's time, and for good measure that photo question draws us into a Time Bonus to cinch things (I think it was 4 minutes?) We start the trek out of the mosquito ridden swamp back to the station to meet the others. It's been humid as hell all day so we're all happy to get out of there and into a nice air conditioned car on the ride back home.
+
+## Wrapup
 
 Overall, everyone had a lot of fun and generally enjoyed the game. Enough that they're interested in me running another game, anyways. That being said, I have a lot of thoughts about what went well and what didn't. The big ones I touched on during the play-by-play, but I'll summarize and add some more here:
 
