@@ -26,7 +26,7 @@ I should note also that all of these diagrams are being drawn after the fact. Th
 
 From Metro Center, they could reach pretty much anywhere in this zone with the exception of Takoma (we were pretty sure the timing didn't line up to catch the shuttle, since they would have also had to run to Chinatown to get the Green line up Fort Totten, an already fairly tight prospect for 30 minutes.) We needed to cut this down, and try and eliminate either the Red Line stations or the Capitol Hill/Waterfront areas. We figured the best options for this were Measuring (Hospital), Measuring (Rail Station), Radar (1 mile), or Thermometer (1/2 mile). The measuring options largely looked good, but required us to position carefully and potentially left some holes on the red line, and Radar was awkward given the density of downtown stations, so in the end we settled on a **1/4 mile Thermometer** for a North/South split. This was easy enough from Metro Center, we just went two stops south to Smithsonian and got a "hotter" for our efforts at **11:45**
 
-![Thermometer - 1/4 mile](/asset/images/hide-and-seek/20250628_thermometer1.png)
+![Thermometer - 1/4 mile](/assets/images/hide-and-seek/20250628_thermometer1.png)
 
 This is pretty good, though does leave a good chunk of the downtown core in play alongside the Blue and Green Line outskirts. When deciding on the thermometer, we knew we would want to narrow things down and figured a photo question would be the best bet, and were leaning on either widest road or tallest building depending on which way the Thermometer returned. With it knocking out a lot of red line and downtown, we decided to go for **Photo of Widest Road**, cognizant this would also give the hiders their third hard and make it pretty likely they had a curse to deploy (in fact, with two, it was very possible they had a curse.) As such, just a few minutes later at **11:47** we ran out the question and decided to head onwards to the more central location of L'Enfant to wait.
 
@@ -86,13 +86,13 @@ Our seekers open up with an interesting question at **15:36**: **Is your closest
 
 Anyways, this is what we've got. Note that this is an extremely rough map, since I'm recreating it digitally and don't know how to replicate a compass in Krita, so it's free-hand and approximate. Still, it gives a good idea of what things look like, and it's a surprisingly good question that bisects the map (given the assumption that those were the three golf courses)
 
-![Matching - Nearest Golf Course](/assets/images/hide-and-seek/20250628_golf1.jpg)
+![Matching - Nearest Golf Course](/assets/images/hide-and-seek/20250628_golf1.png)
 
 They're then idle for awhile, during which we explore and check out that park area we spotted earlier. It turns out it's an elevator down to the back of the station and a path that runs parallel to the platform for a bit, before hitting a small playground and a trailhead into some wetlands. This is *fantastic*, not only might they not realize the entrance even exists but it's a good 10 or 15 minute hike just to get there. The only downside is that it puts us far from the widest road and makes us inflexible for other photo questions too, so we decide instead to hang out by the elevators and only run to the trail when the seekers are closing in.
 
 At **16:11** they start a **1/2 mile Thermometer** from L'Enfant Plaza heading north to Archives, which returns "colder". Honestly, a really confusing question that doesn't cut off as much as it should, and I learn later that they also realized they should have headed down to Waterfront and went to L'Enfant for a thermometer instead, or, since that would be at an angle, done an east/west one instead. Either way, this is what we think the hiders are now seeing for their options:
 
-![Thermometer - 1/4 mile](/asset/images/hide-and-seek/20250628_thermometer2.png)
+![Thermometer - 1/4 mile](/assets/images/hide-and-seek/20250628_thermometer2.png)
 
 Notably, they have eliminated the outskirts all the stations past the BOS fork, which they told me later was one of their objectives, but they leave a significant portion of the Capitol Hill area stations in play, as well as the southern Green Line stations and the southern Virginia Blue/Yellow Line trunk where we are. This question also gives us the Powerup card (**Discard 1, Draw 2**) we need for Lemon, which we set aside for later.
 
@@ -112,11 +112,11 @@ Thanks to the Chalice, this also draws us into a **Curse of the Water Weight**. 
 
 While we're doing that, they hit us with a **Photo of Building Visible from Station Entrance** at **16:51**, so we have to trek all the way back to the entrance. This isn't ideal, but we end up taking a picture of a modern glass building that has been popular in the area, and we hope it might also plausibly be in Crystal City or Pentagon City. We also hope it'll push them towards the west side of the station, rather than the east rear entrance we are hiding by, but this picture confirms Potomac Yard for them.
 
-![Photo of Building Visible from Station Entrance](/assets/images/hide-and-seek/20250628_station2.png)
+![Photo of Building Visible from Station Entrance](/assets/images/hide-and-seek/20250628_station2.jpg)
 
 Fortunately we catch them with the **Curse of the Water Weight** as they cross the river on the Yellow at **16:57**, forcing them to get off at Pentagon City and burn a bunch of time finding a whopping 8 liters of water to carry. Another note—this is a quite a bit, and we think in the future we will either cap the amount of curses like this or cap the cost/budget. They end up buying a whole case, thankfully on sale.
 
-![Case of water bottles](/assets/images/hide-and-seek/20250628_water.png)
+![Case of water bottles](/assets/images/hide-and-seek/20250628_water.jpg)
 
 Then, as we see their trackers indicate they've left the station at **17:26** we hit them with the **Curse of the Lemon Phylactery** hoping this forces them to get off at Crystal City to search or backtrack to Pentagon City. Their trackers are acting up and not very precise at this point, and we're not sure where they are, so we follow up with a **Curse of the Zoologist** at **17:32** with a picture of a bunch of ants to be safe. A few minutes later at **17:34** they enter Crystal City and end up finding a rollipolli right outside the station to knock out that particular curse.
 
