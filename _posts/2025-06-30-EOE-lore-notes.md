@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Edge of Eternities Lore Notes
-date: "2025-06-30 14:35:00 -0400"
+date: "2025-07-01 11:40:00 -0400"
 categories: 
 tags: mtg vorthos MTGEOE
 ---
 
 This post contains some of my notes on the lore, worldbuilding, and story of Magic's [Edge of Eternities](https://magic.wizards.com/en/story). I usually also post my speculation on the r/magicTCG subreddit in the story discussion threads, but this will contain more general stuff, things like terminology and structure, as opposed to live-theorizing after each episodes. Naturally, this post will include spoilers for the story and Planeswalker's Guide, but **does not contain information from leaks**.
 
-This post was last updated with the release of Episode 6 of the Main Story (2025-06-30)
+This post was last updated with the release of Episode 7 of the Main Story (2025-07-01)
 
 ---
 
@@ -41,6 +41,10 @@ Magic has been posting some audio clips on social media that I initially ignored
 [episode 6](<https://bsky.app/profile/magic.wizards.com/post/3lsth65itzv2m>), based on the ep2 clip this sounds like it's also narrated by Tannuk. 
 
 > I felt something change... on the ship. I saw the Monoist boy tearing apart those Kav, saw this power flow through him, like nothing I've ever seen. And then it... un-happened. Whatever that was, I don't trust it
+
+[episode 7](<https://bsky.app/profile/magic.wizards.com/post/3lsvxn4r6js2d>), unknown narrator (male sounding voice)
+
+> Syr Vondam's condition seems to have worsened. He calls himself "anstruth," rambling about a death that was stolen from him. There's only one thing that will satiate him. Capturing Alpharael
 
 ### Notes
 
@@ -85,6 +89,7 @@ Here, I outline the numbered revisions and what seems to have been the impetus f
 - **Revision 10:** We open on Sami and Tan traveling to Sigma's Reach, and it's noted that the colony is unpopulated. The main story continues on this revision for several episodes until the attack. Alpharael throws away his singularity bead and the narrator asks us to grant him mercy, to prevent him from being killed. We choose no, leading to his death and the narrator being found by the Drix (and also get a rant about its true masters)
 - **Revision 11:** We choose to grant mercy to Alpharael, presumably leading to his capture and Slats allowing his escape on the Hopelight. Once again this continues steady for a bit until Alpharael gets the artifact in episode 5 and starts ranting about INEVITA. The narrator asks us to give Alpharael a hand and allow it to perform a miracle. We aren't given an option to refuse, and jump to
 - **Revision 12:** the beginning of Episode 6, *giving Alpharael a hand* (heh) by letting it not be blown off by the singularity bead, and changing pretty significantly what happened as Sami and Tan approached Kavaron
+- **Revision 13:** This revision seems to be Alpharael's impetus instead of ours (or, are we Alpharael?) He opens the stasis cask, retrieves the stone, and we flash to Revision 13 with Sami and Tan trying to make their way back to the *Seriema*. We don't know exactly what has changed in this revision, but it has made the pair lucky, made it easier for them to get back and hiding them from view of the Sunstar knights. Tan seems to have some knowledge of how bad it was before.
 
 ## Vocab
 
@@ -93,7 +98,7 @@ This is a list of some of the vocabulary used in the story that I've broken down
 - **Alabile**. A singularity-resistant metal. used by monoists for armor. able to defer/delete attacks upon it, releasing them when too damaged to store
 	- => alabaster? ablative? a-labile (not liable [to change])?
 - **Anstruth**. Blasphemy
-	- => [s]ans truth? anti truth?
+	- => Anathematic truth, anathematic reality. Falsehood, reality warped by the artifact
 - **Bladiator**. Hardlight blade that can emit blasts
 	- => blade radiator 
 - **Cherazad Generator**. A means of deferring momentum from impact
