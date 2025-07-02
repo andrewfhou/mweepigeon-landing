@@ -135,6 +135,8 @@ This is a list of some of the vocabulary used in the story that I've broken down
 	- => LIDAR, light detection? both a noun and verb?
 - **Lidar**. Summist knight perception mechanism, using grids of light
 	- => literally, LIDAR, Light Detection ARray. 
+- **Luxatic**. Monoist (?) insult against Summists. Lunatic.
+	- => lux + lunatic
 - **Miracho**. a monoist frontline militant. untrained/unspecialized infantry? "a deleter, an eraser, a killer"
 	- => unknown derivation
 - **Phorocast**. Astelli divination method
