@@ -46,6 +46,10 @@ Magic has been posting some audio clips on social media that I initially ignored
 
 > Syr Vondam's condition seems to have worsened. He calls himself "anstruth," rambling about a death that was stolen from him. There's only one thing that will satiate him. Capturing Alpharael
 
+[episode 8](<https://bsky.app/profile/magic.wizards.com/post/3lsyi42g3pi2s>), likely narrated by Syr Vondam
+
+> Solar knights. Down there. That cursed artifact lessens everything it touches. It seeks to lessen the Sum, to bring the Monoist goals ever closer to completion. Charge nuncio emitters, recall our knights. Then do it. Initiate Protocol Seven.
+
 ### Notes
 
 Most of these are just a bit of extra fluff, a teaser to the plot of the episode, but some are fairly significant. Episode 1's clip is most notable, as it reveals that as Sami and Tan approached Sigma's Reach, they were told that there was a mining colony and people there. However, in Episode 1's story, by the time the two are descending into atmosphere they already believe the colony to be unpopulated
@@ -89,7 +93,8 @@ Here, I outline the numbered revisions and what seems to have been the impetus f
 - **Revision 10:** We open on Sami and Tan traveling to Sigma's Reach, and it's noted that the colony is unpopulated. The main story continues on this revision for several episodes until the attack. Alpharael throws away his singularity bead and the narrator asks us to grant him mercy, to prevent him from being killed. We choose no, leading to his death and the narrator being found by the Drix (and also get a rant about its true masters)
 - **Revision 11:** We choose to grant mercy to Alpharael, presumably leading to his capture and Slats allowing his escape on the Hopelight. Once again this continues steady for a bit until Alpharael gets the artifact in episode 5 and starts ranting about INEVITA. The narrator asks us to give Alpharael a hand and allow it to perform a miracle. We aren't given an option to refuse, and jump to
 - **Revision 12:** the beginning of Episode 6, *giving Alpharael a hand* (heh) by letting it not be blown off by the singularity bead, and changing pretty significantly what happened as Sami and Tan approached Kavaron
-- **Revision 13:** This revision seems to be Alpharael's impetus instead of ours (or, are we Alpharael?) He opens the stasis cask, retrieves the stone, and we flash to Revision 13 with Sami and Tan trying to make their way back to the *Seriema*. We don't know exactly what has changed in this revision, but it has made the pair lucky, made it easier for them to get back and hiding them from view of the Sunstar knights. Tan seems to have some knowledge of how bad it was before.
+- **Revision 13:** This revision seems to be Alpharael's impetus instead of ours (or, are we Alpharael?) He opens the stasis cask, retrieves the stone, and we flash to Revision 13 with Sami and Tan trying to make their way back to the *Seriema*. We don't know exactly what has changed in this revision, but it has made the pair lucky, made it easier for them to get back and hiding them from view of the Sunstar knights. Tan seems to have some knowledge of how bad it was before. At the fork point of this revision, Haliya shoots Sami and Tan before Alph hits her with the jet injector and we see the stone glow pink
+- **Revision 14**. The paralytic agent in the jet injector stops Haliya before she can shoot Sami and Tan, allowing them to return to the ship safely and eventually escape Kavaron. Perhaps it also plays on Syr Vondam's fondness for Haliya, resulting in an incomplete enaction of Protocol Seven.
 
 ## Vocab
 
@@ -121,6 +126,9 @@ This is a list of some of the vocabulary used in the story that I've broken down
 	- => hymn rosary? described as a 'reticulum', a net or network
 - **Incaglas**. Used for data?
 	- => incandescent glass => fiber optics
+- **Kamu-shiku**. A Monoist suicide commando
+	- => Some googling leads me to shiku (JP, 死苦) meaning death, bitterness; painful death. If we hold with Japanese, kamu leads to "bite", which perhaps fits okay? Shiku is the strongest part of this
+	- => Kamu is also a pronoun, "you", in Indonesian, but I couldn't find anything for shiku there
 - **Lide**. Used in both "Lide, she's biting her tongue" and "We lide ... I lide it so, just now", 
 	- as a verb for the astelli future sight?
 	- analagous to 'lord' or some other invocation, or maybe "[I see/See], she's biting her tongue"?
