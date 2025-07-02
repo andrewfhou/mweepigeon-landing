@@ -201,9 +201,9 @@ These are the notes I took as I read the Planeswalker's Guide to try and get a b
 ### Locations
 - **Sothera**: the name of the supervoid (and former sun) that was the center of the Sothera system, and the setting of EOE. Was foretold to collapse into a supernova, but Monoists forced it into a supervoid instead using "sekhar" (a bead that causes singularity induction). The Thousandth supervoid
 	- Sothera - Susur Secundi - Kavaron & Evendo - Adagia - Uthros
-- **Susur Secundi (Anuki)**. First from Sothera: Black aligned? Crisscrossed by labyrinths and claimed by the Monoists.
+- **Susur Secundi (once Anuki)**. First from Sothera: Black aligned? Crisscrossed by labyrinths and claimed by the Monoists.
 - **Kavaron**. Twin-second from Sothera: Red aligned? Kav (kavu) homeworld. Was strip mined to the point of crumbling, with one portion ("Kavaron Before") tectonically stabilized and preserved/used as a sort of history museum, and the remainder ("Kavaron That Is") being cataclysmic landscape that attracts scavengers and hunters. 
 - **Evendo**. Twin-second from Sothera: Green aligned? Originally icebound but with a dormant Eumidian vanguard, the Kavaron cataclysms triggered their awakening and the planet has since been terraformed by the Eumidian. It now sports vibrant life in an equatorial band from which the glacial ice slowly melts. Some in the Kavaronic Empire eye it for conquest.
-- **Adagia**. Third from Sothera: White aligned? Primary location for the Sunstar Free Company's operations. Scoured by constant winds with a thin and cold atmosphere.
+- **Adagia (once Adawa)**. Third from Sothera: White aligned? Primary location for the Sunstar Free Company's operations. Scoured by constant winds with a thin and cold atmosphere.
 - **Uthros**. Fourth from Sothera: Blue aligned? A gas giant with dozens of moons and a cloudscape home to many creatures in the upper layers of its atmosphere. The depths are caustic and brutal, and home to a secret Uthros Combine (the Sothera-local Illvoi organization) research complex for atmospheric engineering and other, unknown topics
 
