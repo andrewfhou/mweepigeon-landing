@@ -86,7 +86,7 @@ Here, I outline the numbered revisions and what seems to have been the impetus f
 
 ### Revision List
 
-- **Revision 0:** The narrator doesn't find an agent, and explodes
+- **Revision 0:** The narrator doesn't find an agent, and shatters when the sun explodes (goes nova?)
 - **Revision 1:** The narrator finds us and asks us to choose someone to find it.
 	- We choose not to
 - **Revision 2:** We choose yes. We hear about the history of Sothera, but it's unknown how this revision ends or what choice we are asked to make.
