@@ -52,7 +52,7 @@ Magic has been posting some audio clips on social media that I initially ignored
 
 [episode 9](<https://bsky.app/profile/magic.wizards.com/post/3lt2ykwcfpy2x>), narrated by Tezzeret
 
-> I must admit, the captain and their crew have surpassed my expectations. If this stone is everything Mm'menon claims it to be, this is my chance to claim the power I rightfully deserve.
+> I must admit, the captain and their crew have surpassed my expectations. If this Stone is everything Mm'menon claims it to be, this is my chance to claim the power I rightfully deserve.
 
 ### Notes
 
@@ -117,12 +117,12 @@ This is a list of some of the vocabulary used in the story that I've broken down
 	- => alabaster? ablative? a-labile (not liable [to change])?
 - **Anstruth**. Blasphemy
 	- => Anathematic truth, anathematic reality. Falsehood, reality warped by the artifact
-- **Bladiator**. Hardlight blade that can emit blasts
+- **Bladiator**. Hardlight blade that can emit blasts of energy
 	- => blade radiator 
 - **Checkmate**. Pinnacle position paired with Director, combining first officer with adversarial counselor
-	- => Check as in check-and-balance, Mate as in assistant/first officer.
+	- => Check as in check-and-balance; Mate as in assistant/first officer.
 - **Cherazad Generator**. A means of deferring momentum from impact
-	- => sheherazade / shahrazad (staving off death temporarily)
+	- => sheherazade / shahrazad, from One Thousand and One Nights. Staving off death temporarily
 - **Coach** and **Postilion**. Archetypical twin authority positions in Kav contrimperial Teamer culture. The coach drives, the postilion navigates
 	- => Postilion is derived from French and Italian, and originally meant the guide/forerunner for the post (mail). It now means the person who rides a horse pulling a coach or carriage in lieu of a coachman in order to guide it.
 	- => Similarly, coach is likely derived from coach (carriage). These terms are a straightforward lift.
@@ -154,6 +154,8 @@ This is a list of some of the vocabulary used in the story that I've broken down
 	- => literally, LIDAR, Light Detection ARray. 
 - **Luxatic**. Monoist (?) insult against Summists. Lunatic.
 	- => lux + lunatic
+- **Markup rag**. A flexible sheet of writeable memory that can make itself rigid for use. A tablet
+	- => A rag that you can mark up. No fancy etymology here
 - **Miracho**. a monoist frontline militant. untrained/unspecialized infantry? "a deleter, an eraser, a killer"
 	- => unknown derivation
 - **Phorocast**. Astelli divination method
