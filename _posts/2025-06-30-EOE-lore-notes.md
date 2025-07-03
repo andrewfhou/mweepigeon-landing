@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Edge of Eternities Lore Notes
-date: "2025-07-01 11:40:00 -0400"
-categories: 
+date: 2025-07-01T15:40:00+00:00
 tags: mtg vorthos MTGEOE
+categories: null
 ---
 
 This post contains some of my notes on the lore, worldbuilding, and story of Magic's [Edge of Eternities](https://magic.wizards.com/en/story). I usually also post my speculation on the r/magicTCG subreddit in the story discussion threads, but this will contain more general stuff, things like terminology and structure, as opposed to live-theorizing after each episodes. Naturally, this post will include spoilers for the story and Planeswalker's Guide, but **does not contain information from leaks**.
@@ -151,7 +151,7 @@ This is a list of some of the vocabulary used in the story that I've broken down
 	- analagous to 'lord' or some other invocation, or maybe "[I see/See], she's biting her tongue"?
 	- => LIDAR, light detection? both a noun and verb?
 - **Lidar**. Summist knight perception mechanism, using grids of light
-	- => literally, LIDAR, Light Detection ARray. 
+	- => literally, LIDAR, LIght Detection And Ranging. 
 - **Luxatic**. Monoist (?) insult against Summists. Lunatic.
 	- => lux + lunatic
 - **Markup rag**. A flexible sheet of writeable memory that can make itself rigid for use. A tablet
@@ -176,7 +176,7 @@ This is a list of some of the vocabulary used in the story that I've broken down
 	- **Susurians**. the species that founded monoism
 		- => whisperers
 - **Synodic sobor**. a temple to the star
-	- => [relating to stars] [synod/assembly]. star/sun assembly. apropos for the "bridge"
+	- => [Synodic—relating to stars] [Sobor—synod/assembly (Russian)]. Star/sun assembly. apropos for the bridge of a Summist ship 
 - **Tidal claws**. component of monoist alabile armor. allows for generating gravitational pull
 	- => tidal forces/acceleration
 
