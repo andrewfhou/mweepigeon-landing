@@ -50,6 +50,10 @@ Magic has been posting some audio clips on social media that I initially ignored
 
 > Solar knights. Down there. That cursed artifact lessens everything it touches. It seeks to lessen the Sum, to bring the Monoist goals ever closer to completion. Charge nuncio emitters, recall our knights. Then do it. Initiate Protocol Seven.
 
+[episode 9](<https://bsky.app/profile/magic.wizards.com/post/3lt2ykwcfpy2x>), narrated by Tezzeret
+
+> I must admit, the captain and their crew have surpassed my expectations. If this stone is everything Mm'menon claims it to be, this is my chance to claim the power I rightfully deserve.
+
 ### Notes
 
 Most of these are just a bit of extra fluff, a teaser to the plot of the episode, but some are fairly significant. Episode 1's clip is most notable, as it reveals that as Sami and Tan approached Sigma's Reach, they were told that there was a mining colony and people there. However, in Episode 1's story, by the time the two are descending into atmosphere they already believe the colony to be unpopulated
