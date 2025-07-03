@@ -8,7 +8,7 @@ tags: mtg vorthos MTGEOE
 
 This post contains some of my notes on the lore, worldbuilding, and story of Magic's [Edge of Eternities](https://magic.wizards.com/en/story). I usually also post my speculation on the r/magicTCG subreddit in the story discussion threads, but this will contain more general stuff, things like terminology and structure, as opposed to live-theorizing after each episodes. Naturally, this post will include spoilers for the story and Planeswalker's Guide, but **does not contain information from leaks**.
 
-This post was last updated with the release of Episode 8 of the Main Story (2025-07-02)
+This post was last updated with the release of Episode 9 of the Main Story and the side story The Wefthunter (2025-07-03)
 
 ---
 
@@ -83,18 +83,27 @@ Here, I outline the numbered revisions and what seems to have been the impetus f
 ### Revision List
 
 - **Revision 0:** The narrator doesn't find an agent, and explodes
-- **Revision 1:** The narrator finds us and asks us to choose someone to find it. We choose no
+- **Revision 1:** The narrator finds us and asks us to choose someone to find it.
+	- We choose not to
 - **Revision 2:** We choose yes. We hear about the history of Sothera, but it's unknown how this revision ends or what choice we are asked to make.
 - **Revision 3:** ???
-- **Revision 4:** Impetus for this revision unknown. The narrator asks us to make Mm'menon's life interesting, and we refuse, leading to its capture by the Drix
-- **Revision 5:** We make Mm'menon's life interesting, causing his exile. The narrator  asks us to prevent the Metalman from finding it, depriving him of certain specialists and resources. We choose to not do so, leading to its capture by the Metalman
-- **Revision 6:** We prevent the Metalman from finding it. We're told the setup to Sami's search for Mirri.
+- **Revision 4:** Impetus for this revision unknown. The narrator asks us to make Mm'menon's life interesting.
+	- We refuse, leading to its capture by the Drix
+- **Revision 5:** We make Mm'menon's life interesting, causing his exile. The narrator asks us to prevent the Metalman from finding it, depriving him of certain specialists and resources.
+	- We choose to not do so, leading to its capture by the Metalman
+- **Revision 6:** We prevent the Metalman from finding the narrator. We're told the setup to Sami's search for Mirri.
 - **Revision 7-9:** Unknown. This section is replaced by the Anathalmanac, and episode 1 then jumps straight to...
-- **Revision 10:** We open on Sami and Tan traveling to Sigma's Reach, and it's noted that the colony is unpopulated. The main story continues on this revision for several episodes until the attack. Alpharael throws away his singularity bead and the narrator asks us to grant him mercy, to prevent him from being killed. We choose no, leading to his death and the narrator being found by the Drix (and also get a rant about its true masters)
-- **Revision 11:** We choose to grant mercy to Alpharael, presumably leading to his capture and Slats allowing his escape on the Hopelight. Once again this continues steady for a bit until Alpharael gets the artifact in episode 5 and starts ranting about INEVITA. The narrator asks us to give Alpharael a hand and allow it to perform a miracle. We aren't given an option to refuse, and jump to
+- **Revision 10:** We open on Sami and Tan traveling to Sigma's Reach, and it's noted that the colony is unpopulated. The main story continues on this revision for several episodes until the attack. Alpharael throws away his singularity bead and the narrator asks us to grant him mercy, to prevent him from being killed.
+	- We choose no, leading to his death and the narrator being found by the Drix (and also get a rant about its true masters)
+- **Revision 11:** We choose to grant mercy to Alpharael, presumably leading to his capture and Slats allowing his escape on the Hopelight. Once again this continues steady for a bit until Alpharael gets the artifact in episode 5 and starts ranting about INEVITA.
+	- The narrator asks us to give Alpharael a hand and allow it to perform a miracle. We aren't given an option to refuse, and jump to
 - **Revision 12:** the beginning of Episode 6, *giving Alpharael a hand* (heh) by letting it not be blown off by the singularity bead, and changing pretty significantly what happened as Sami and Tan approached Kavaron
-- **Revision 13:** This revision seems to be Alpharael's impetus instead of ours (or, are we Alpharael?) He opens the stasis cask, retrieves the stone, and we flash to Revision 13 with Sami and Tan trying to make their way back to the *Seriema*. We don't know exactly what has changed in this revision, but it has made the pair lucky, made it easier for them to get back and hiding them from view of the Sunstar knights. Tan seems to have some knowledge of how bad it was before. At the fork point of this revision, Haliya shoots Sami and Tan before Alph hits her with the jet injector and we see the stone glow pink
+- **Revision 13:** This revision seems to be Alpharael's impetus instead of ours (or, are we Alpharael?) He opens the stasis cask, retrieves the stone, and we flash to Revision 13 with Sami and Tan trying to make their way back to the *Seriema*. We don't know exactly what has changed in this revision, but it has made the pair lucky, made it easier for them to get back and hiding them from view of the Sunstar knights. Tan seems to have some knowledge of how bad it was before.
+	- At the fork point of this revision, Haliya shoots Sami and Tan before Alph hits her with the jet injector and we see the stone glow pink
 - **Revision 14**. The paralytic agent in the jet injector stops Haliya before she can shoot Sami and Tan, allowing them to return to the ship safely and eventually escape Kavaron. Perhaps it also plays on Syr Vondam's fondness for Haliya, resulting in an incomplete enaction of Protocol Seven.
+	- Tezzeret drops a crystal over a map of Sothera, asking the narrator to show him where it needs to go. We refuse to drop it over the Uthros libratory point, resulting in various outcomes the narrator does not stand.
+	- If we choose to drop it onto the Wurmwall, the narrator questions if we are cheating, and makes some interesting notes
+- **Revision 15**. We guide the crystal to land on the Uthros libratory point, and so the crew proceeds that way. To infinity, and beyond.
 
 ## Vocab
 
@@ -106,6 +115,8 @@ This is a list of some of the vocabulary used in the story that I've broken down
 	- => Anathematic truth, anathematic reality. Falsehood, reality warped by the artifact
 - **Bladiator**. Hardlight blade that can emit blasts
 	- => blade radiator 
+- **Checkmate**. Pinnacle position paired with Director, combining first officer with adversarial counselor
+	- => Check as in check-and-balance, Mate as in assistant/first officer.
 - **Cherazad Generator**. A means of deferring momentum from impact
 	- => sheherazade / shahrazad (staving off death temporarily)
 - **Coach** and **Postilion**. Archetypical twin authority positions in Kav contrimperial Teamer culture. The coach drives, the postilion navigates
@@ -127,8 +138,10 @@ This is a list of some of the vocabulary used in the story that I've broken down
 - **Incaglas**. Used for data?
 	- => incandescent glass => fiber optics
 - **Kamu-shiku**. A Monoist suicide commando
-	- => Some googling leads me to shiku (JP, 死苦) meaning death, bitterness; painful death. If we hold with Japanese, kamu leads to "bite", which perhaps fits okay? Shiku is the strongest part of this
+	- => Some googling leads me to shiku (JP, 死苦) meaning death, bitterness; painful death. If we hold with Japanese, kamu leads to "bite", which perhaps fits okay? Shiku is the strongest part of this. Likely also meant to evoke "kamikaze"
 	- => Kamu is also a pronoun, "you", in Indonesian, but I couldn't find anything for shiku there
+- **Libratory point**. A point of balance between gravitational pulls. A Lagrange point
+	- => libratory, from "libra" (balance). Meaning "oscillatory"
 - **Lide**. Used in both "Lide, she's biting her tongue" and "We lide ... I lide it so, just now", 
 	- as a verb for the astelli future sight?
 	- analagous to 'lord' or some other invocation, or maybe "[I see/See], she's biting her tongue"?
@@ -148,9 +161,9 @@ This is a list of some of the vocabulary used in the story that I've broken down
 - **Sput**. insult?
 	- => sput[tering light]
 - **Subedar**. KMN field soldier experienced in handling offworlders
-	- => ???
+	- => [a South Asian military rank, roughly equivalent to warrant officer](https://en.wikipedia.org/wiki/Subedar)
 	- **Jemadar**. Lower rank of the same role
-		- => ???
+		- => [ranked below a Subedar in the same system](https://en.wikipedia.org/wiki/Jemadar)
 - **Susur Secundi**. the planet closest to sothera, and claimed by the monoists
 	- => susur from susurrous (a hum/a whisper)
 	- => second whisper (after the monoist capital, the Lip of Susur. literally, the second in importance)
@@ -213,4 +226,5 @@ These are the notes I took as I read the Planeswalker's Guide to try and get a b
 	- ["Adagia, Windswept Bastion"](https://i.imgur.com/LtnPlUu.jpeg)
 - **Uthros**. Fourth from Sothera: Blue aligned. A gas giant with dozens of moons and a cloudscape home to many creatures in the upper layers of its atmosphere. The depths are caustic and brutal, and home to a secret Uthros Combine (the Sothera-local Illvoi organization) research complex for atmospheric engineering and other, unknown topics
 	- ["Uthros, Titanic Godcore"](https://i.imgur.com/6ASvhn9.jpeg)
-
+- **The Wurmwall**. The asteroid belt ringing the Sothera system. Treacherous and home to derelicts, asteroids, and greatwurms
+	- The side story [Compact me to Zero](https://magic.wizards.com/en/news/magic-story/edge-of-eternities-compact-me-to-zero) implies that the Wurmwall may be home to a Vaar node, an entrance to their virtual space, the Hylderhigh. [Episode 9](https://magic.wizards.com/en/news/magic-story/edge-of-eternities-episode-9#IntoTheWurmwall) of the main story also hints at something in the Wurmwall relevant to the Endstone
