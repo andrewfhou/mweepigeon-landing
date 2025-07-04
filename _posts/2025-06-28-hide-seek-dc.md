@@ -130,7 +130,7 @@ Lemon burns quite a bit of their time, but at around **17:45** we see they are m
 
 Since their time was 2h25m we only have to hold out until **18:05**. We're fresh out of cards though, so at this point it's just sitting tight, refreshing the tracker, and hoping they go the wrong way out of the station... which they do! We watch them head towards the strip mall and amble around for awhile, and eventually they run out a **Photo of Tallest Visible Building** right at **18:05**. At first, we're not even sure we *can* see a building, but one of my fellow hiders realizes you can juuuuuust barely make out a building through the trees
 
-![Photo - Tallest Building](/assets/images/hide-and-seek/20250628_tallest1.jpg)
+![Photo - Tallest Building](/assets/images/hide-and-seek/20250628_tallest2.jpg)
 
 Either way, that's time, and for good measure that photo question draws us into a Time Bonus to cinch things (I think it was 4 minutes?) We start the trek out of the mosquito ridden swamp back to the station to meet the others. It's been humid as hell all day so we're all happy to get out of there and into a nice air conditioned car on the ride back home.
 
