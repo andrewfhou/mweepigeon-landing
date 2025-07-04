@@ -8,7 +8,7 @@ categories: null
 
 This post contains some of my notes on the lore, worldbuilding, and story of Magic's [Edge of Eternities](https://magic.wizards.com/en/story). I usually also post my speculation on the r/magicTCG subreddit in the story discussion threads, but this will contain more general stuff, things like terminology and structure, as opposed to live-theorizing after each episodes. Naturally, this post will include spoilers for the story and Planeswalker's Guide, but **does not contain information from leaks**.
 
-This post was last updated with the release of Episode 9 of the Main Story and the side story The Wefthunter (2025-07-03)
+This post was last updated with the release of Episode 10 of the Main Story (2025-07-04)
 
 ---
 
