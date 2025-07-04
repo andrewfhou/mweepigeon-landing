@@ -54,6 +54,10 @@ Magic has been posting some audio clips on social media that I initially ignored
 
 > I must admit, the captain and their crew have surpassed my expectations. If this Stone is everything Mm'menon claims it to be, this is my chance to claim the power I rightfully deserve.
 
+[episode 10](<https://bsky.app/profile/magic.wizards.com/post/3lt5izumh2w2u>), narrated by Sami
+
+> To all of Pinnacle stationed at Infinite Guideline: we're coming in hot with a very dangerous payload. We're asking for passage through the Eternity Column. And as you can tell by the two armies tailing us, we don't have time for deliberation.
+
 ### Notes
 
 Most of these are just a bit of extra fluff, a teaser to the plot of the episode, but some are fairly significant. Episode 1's clip is most notable, as it reveals that as Sami and Tan approached Sigma's Reach, they were told that there was a mining colony and people there. However, in Episode 1's story, by the time the two are descending into atmosphere they already believe the colony to be unpopulated
@@ -107,7 +111,7 @@ Here, I outline the numbered revisions and what seems to have been the impetus f
 - **Revision 14**. The paralytic agent in the jet injector stops Haliya before she can shoot Sami and Tan, allowing them to return to the ship safely and eventually escape Kavaron. Perhaps it also plays on Syr Vondam's fondness for Haliya, resulting in an incomplete enaction of Protocol Seven.
 	- Tezzeret drops a crystal over a map of Sothera, asking the narrator to show him where it needs to go. We can choose to drop it over other places other than the narrator's desired destination, resulting in various outcomes the narrator does not stand, and forces us to choose again.
 	- If we choose to drop it onto the Wurmwall, the narrator questions if we are cheating, and makes some interesting notes about how we will travel there eventually, but not "in the tedious substrate of secular space". Either way, it is still wrong, and we revert.
-- **Revision 15**. We guide the crystal to land on the Uthros libratory point, and so the crew proceeds that way. To infinity, and beyond.
+- **Revision 15**. We guide the crystal to land on the Uthros libratory point, to Infinite Guideline, and so the crew proceeds that way. To infinity, and beyond.
 
 ## Vocab
 
@@ -170,6 +174,8 @@ This is a list of some of the vocabulary used in the story that I've broken down
 	- => [a South Asian military rank, roughly equivalent to warrant officer](https://en.wikipedia.org/wiki/Subedar)
 	- **Jemadar**. Lower rank of the same role
 		- => [ranked below a Subedar in the same system](https://en.wikipedia.org/wiki/Jemadar)
+- **Qalib**. A Drix song, or title, or class?
+  - => From the Arabic "qalib"/”qalb", meaning form or model or template? Heart, the center of human philosophy per Islamic philosophy?
 - **Susur Secundi**. the planet closest to sothera, and claimed by the monoists
 	- => susur from susurrous (a hum/a whisper)
 	- => second whisper (after the monoist capital, the Lip of Susur. literally, the second in importance)
@@ -192,6 +198,7 @@ These are the notes I took as I read the Planeswalker's Guide to try and get a b
 - **"Quiet Wall"**: heat death (low entropy). The domain of the Eldrazi? Or simply fading into nothingness?
 - **FTL/"Weft"-travel**: involves dipping into the membrane of the Chaos Wall (the "Eternities" or "Weft") and shortly exiting at the destination.
 	- Sounds similar to how Planeswalkers teleport between points on the same plane, effectively walking half-off into the Blind Eternities before re-walking to the current plane. May in fact be the same process, skimming across the Eternities, but entering and exiting on a different 'side' of it
+	- Non-Drix must be use an Eternity Column to catapult themselves into the weft, into higher (?) lamella for travel. They also serve as beacons for vessels in the weft, but an Eternity Drive is sufficient to sink back into the lower lamella that is their reality—one doesn't need to arrive exactly at a Column 
 - **Aether and Mana**: interestingly, called out explicitly as fundamental particles/substrates next to photons and quarks. This is the same understanding that Saheeli (and presumably Avishkari scientists) have - that mana and aether are fundamental elements and subject to their respective conservation laws. We also know from previous lore that aether is some form of energy relating to the Blind Eternities.
 
 ### Individuals
