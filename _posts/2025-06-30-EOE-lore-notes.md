@@ -116,7 +116,7 @@ Here, I outline the numbered revisions and what seems to have been the impetus f
 	- Tezzeret drops a crystal over a map of Sothera, asking the narrator to show him where it needs to go. We can choose to drop it over other places other than the narrator's desired destination, resulting in various outcomes the narrator does not stand, and forces us to choose again.
 	- If we choose to drop it onto the Wurmwall, the narrator questions if we are cheating, and makes some interesting notes about how we will travel there eventually, but not "in the tedious substrate of secular space". Either way, it is still wrong, and we revert.
 - **Revision 15**. We guide the crystal to land on the Uthros libratory point, to Infinite Guideline, and so the crew proceeds that way. To infinity, and beyond.
-- **Revision 16**. The final revision, at least in our story. Used for Alph to guess the warp ferry codes, though he doesn't have the Endstone at the moment, since he will hold it in the future
+- **Revision 16**. The final revision, at least in our story. Likely used for Alph to guess the warp ferry codes, though he doesn't have the Endstone at the moment, since he will hold it in the future
 
 ## Vocab
 
