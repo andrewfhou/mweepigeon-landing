@@ -208,6 +208,10 @@ These are the notes I took as I read the Planeswalker's Guide to try and get a b
 - **FTL/"Weft"-travel**: involves dipping into the membrane of the Chaos Wall (the "Eternities" or "Weft") and shortly exiting at the destination.
 	- Sounds similar to how Planeswalkers teleport between points on the same plane, effectively walking half-off into the Blind Eternities before re-walking to the current plane. May in fact be the same process, skimming across the Eternities, but entering and exiting on a different 'side' of it
 	- Non-Drix must be use an Eternity Column to catapult themselves into the weft, into higher (?) lamella for travel. They also serve as beacons for vessels in the weft, but an Eternity Drive is sufficient to sink back into the lower lamella that is their reality—one doesn't need to arrive exactly at a Column
+	- Redward/Blueward are directions or dimensions used weftwalking. Ships entering the warp are mentioned to travel both blueward and redward, so it might depend on where you are going? If we consider redshift/blueshift terminology, it might mean redwards is to higher lamella and bluewards is to lower, which fits with the first quote
+		- "Plunges down and to the blue: a direction Sami recognizes only from the motion of ships entering warp."
+		- "entangling with the column's wedge of laminar topology, and riding it redways into warp."
+		- "The Seriema falls redward into warp."
 - **Aether and Mana**: interestingly, called out explicitly as fundamental particles/substrates next to photons and quarks. This is the same understanding that Saheeli (and presumably Avishkari scientists) have - that mana and aether are fundamental elements and subject to their respective conservation laws. We also know from previous lore that aether is some form of energy relating to the Blind Eternities.
 
 ### Individuals
