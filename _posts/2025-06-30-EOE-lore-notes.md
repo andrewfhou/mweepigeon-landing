@@ -8,7 +8,7 @@ categories: null
 
 This post contains some of my notes on the lore, worldbuilding, and story of Magic's [Edge of Eternities](https://magic.wizards.com/en/story). I usually also post my speculation on the r/magicTCG subreddit in the story discussion threads, but this will contain more general stuff, things like terminology and structure, as opposed to live-theorizing after each episodes. Naturally, this post will include spoilers for the story and Planeswalker's Guide, but **does not contain information from leaks**.
 
-This post was last updated with the release of Episode 10 of the Main Story (2025-07-04)
+This post was last updated with the release of Episode 11, the final episode, of the Main Story (2025-07-07)
 
 ---
 
@@ -58,7 +58,11 @@ Magic has been posting some audio clips on social media that I initially ignored
 
 > To all of Pinnacle stationed at Infinite Guideline: we're coming in hot with a very dangerous payload. We're asking for passage through the Eternity Column. And as you can tell by the two armies tailing us, we don't have time for deliberation.
 
-### Notes
+[episode 11](<https://bsky.app/profile/magic.wizards.com/post/3ltf2gnrdvw2m>), narrated by Tezzeret
+
+> The Eldrazi. All the way out here? These mockeries of logic continue to vex me. No matter. Once I reach the eternity column, I'll begin my apotheosis. Power. Uncontrolled power, will finally be mine
+
+### Notes on Audio Clips
 
 Most of these are just a bit of extra fluff, a teaser to the plot of the episode, but some are fairly significant. Episode 1's clip is most notable, as it reveals that as Sami and Tan approached Sigma's Reach, they were told that there was a mining colony and people there. However, in Episode 1's story, by the time the two are descending into atmosphere they already believe the colony to be unpopulated
 
@@ -112,6 +116,7 @@ Here, I outline the numbered revisions and what seems to have been the impetus f
 	- Tezzeret drops a crystal over a map of Sothera, asking the narrator to show him where it needs to go. We can choose to drop it over other places other than the narrator's desired destination, resulting in various outcomes the narrator does not stand, and forces us to choose again.
 	- If we choose to drop it onto the Wurmwall, the narrator questions if we are cheating, and makes some interesting notes about how we will travel there eventually, but not "in the tedious substrate of secular space". Either way, it is still wrong, and we revert.
 - **Revision 15**. We guide the crystal to land on the Uthros libratory point, to Infinite Guideline, and so the crew proceeds that way. To infinity, and beyond.
+- **Revision 16**. The final revision, at least in our story. Used for Alph to guess the warp ferry codes, though he doesn't have the Endstone at the moment, since he will hold it in the future
 
 ## Vocab
 
@@ -119,6 +124,8 @@ This is a list of some of the vocabulary used in the story that I've broken down
 
 - **Alabile**. A singularity-resistant metal. used by monoists for armor. able to defer/delete attacks upon it, releasing them when too damaged to store
 	- => alabaster? ablative? a-labile (not liable [to change])?
+- **Armor fati**. Fate's Armorer
+	- => A play on the latin "amor fati", meaning "love of fate"; instead implying "armor of fate"
 - **Anstruth**. Blasphemy
 	- => Anathematic truth, anathematic reality. Falsehood, reality warped by the artifact
 - **Bladiator**. Hardlight blade that can emit blasts of energy
@@ -137,6 +144,8 @@ This is a list of some of the vocabulary used in the story that I've broken down
 	- => Contra-imperial? So, against the Kavaronic Federal Empire, anti-authority?
 - **Cyndomine**. A Summist mine.
 	- => from cynidocyte, a stinging cell in jellyfish. a miniature anti-armor mine
+- **Eld**. An old being/thing. An Eldrazi
+	- => truncation of Eldrazi
 - **Eikonostasis**. Patterned light (data)
 	- => iconostasis, a wall of icons separating the nave (central portion) from the sanctuary.
 - (Squadron) **Hawking/Beckon-Hawk radiation**
@@ -198,7 +207,7 @@ These are the notes I took as I read the Planeswalker's Guide to try and get a b
 - **"Quiet Wall"**: heat death (low entropy). The domain of the Eldrazi? Or simply fading into nothingness?
 - **FTL/"Weft"-travel**: involves dipping into the membrane of the Chaos Wall (the "Eternities" or "Weft") and shortly exiting at the destination.
 	- Sounds similar to how Planeswalkers teleport between points on the same plane, effectively walking half-off into the Blind Eternities before re-walking to the current plane. May in fact be the same process, skimming across the Eternities, but entering and exiting on a different 'side' of it
-	- Non-Drix must be use an Eternity Column to catapult themselves into the weft, into higher (?) lamella for travel. They also serve as beacons for vessels in the weft, but an Eternity Drive is sufficient to sink back into the lower lamella that is their reality—one doesn't need to arrive exactly at a Column 
+	- Non-Drix must be use an Eternity Column to catapult themselves into the weft, into higher (?) lamella for travel. They also serve as beacons for vessels in the weft, but an Eternity Drive is sufficient to sink back into the lower lamella that is their reality—one doesn't need to arrive exactly at a Column
 - **Aether and Mana**: interestingly, called out explicitly as fundamental particles/substrates next to photons and quarks. This is the same understanding that Saheeli (and presumably Avishkari scientists) have - that mana and aether are fundamental elements and subject to their respective conservation laws. We also know from previous lore that aether is some form of energy relating to the Blind Eternities.
 
 ### Individuals
