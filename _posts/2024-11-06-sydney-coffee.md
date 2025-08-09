@@ -3,7 +3,10 @@ layout: post
 title: Sydney Coffeeposting
 date: 2024-11-06 09:07:23 -0500
 categories: 
-tags: coffee sydney
+tags:
+  - coffee
+  - sydney
+  - travel
 ---
 I recently flew down to Sydney to visit my partner (well, not technically Sydney, actually Central Coast, but close enough.) Took the opportunity to do some more tourism than my previous trip, which of course means lots of coffee shops!
 
