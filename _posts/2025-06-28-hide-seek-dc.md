@@ -1,11 +1,9 @@
 ---
 layout: post
 title: "Hide + Seek Transit Game: DC Metro Area"
-date: 2025-06-28 19:42:29 -0400
-categories:
-tags:
-  - transit
-  - hide-and-seek
+date: "2025-06-28 19:42:29 -0400"
+categories: 
+tags: transit hide+seek
 ---
 
 I ran a game of [Jet Lag's Hide + Seek Transit Game](https://store.nebula.tv/products/hideandseek) with some friends in DC—or, more accurately, the DC metro area, using WMATA Metrorail. This post is a post mortem of sorts; I'll be sketching out the play-by-play alongside thoughts on issues encountered and things to improve for next session.
