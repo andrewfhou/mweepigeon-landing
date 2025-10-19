@@ -6,7 +6,7 @@ categories:
 tags: transit hide-and-seek
 ---
 
-This past weekend I ran our second game of [Jet Lag's Hide + Seek Transit Game](https://store.nebula.tv/products/hideandseek) with some friends in the DC metro area, using WMATA Metrorail (you can find the first game's writeup [here]{% post_url 2025-06-28-hide-seek-dc %}). This post is a play-by-play and a post mortem of sorts, I'll talk through the game and how well the changes we made went. 
+This past weekend I ran our second game of [Jet Lag's Hide + Seek Transit Game](https://store.nebula.tv/products/hideandseek) with some friends in the DC metro area, using WMATA Metrorail (you can find the first game's writeup [here]({% post_url 2025-06-28-hide-seek-dc %}). This post is a play-by-play and a post mortem of sorts, I'll talk through the game and how well the changes we made went. 
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1m7uxYNhAd_nhCl39WKcN4V6TXpYJEPY&ehbc=2E312F" width="640" height="480"></iframe>
 
