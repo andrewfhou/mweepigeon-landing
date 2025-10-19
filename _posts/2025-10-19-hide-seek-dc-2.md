@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hide + Seek Transit Game: DC Metro Area - Take Two!"
-date: 2025-10-20 00:01:00 -0400
+date: 2025-10-19 00:23:00 -0400
 categories:
 tags: transit hide-and-seek
 ---
@@ -14,7 +14,7 @@ Our play area was the square formed by the original DC boundaries, encompassing 
 
 This time, to reduce ambiguity, I created [a seeker question reference](https://docs.google.com/document/d/10ycGwrywXaVAG8_hR8OF6CYFayVYP6qXJsNnk6rCUnw/edit?usp=sharing) providing some clarifications on certain questions, as well as marking a handful of redundant ones (like Measuring questions with only 1 option). We also decided that hiders being able to take photos ahead of time is kind of lame and it's strategically interesting to use a photo question to flush hiders from a hiding spot, so we struck that rule. I also found [this spreadsheet](https://docs.google.com/spreadsheets/d/1jbE0vujOeOzc4oSfkqbOxmL9IiEaln2w_IOkmN60rQY/edit?gid=0#gid=0) on r/JetLagTheGame that transcribes curse card text and hider deck distribution, which was useful for seekers to have.
 
-This time I integrated most of the POIs for matching and measuring questions into the map itself to reduce ambiguity (they're configured as separate layers on the map embedded above), largely pulling from [Open Data DC](https://datahub-dc-dcgis.hub.arcgis.com/) and filling in Virginia manually. The only ones not included being parks (too many and no premade KML I could find) and things like zoos and airports where there was only one option.
+This time I integrated most of the POIs for matching and measuring questions into the map itself to reduce ambiguity (they're configured as separate layers on the map embedded above and hidden by default, you can toggle them on via sidebar), largely pulling from [Open Data DC](https://datahub-dc-dcgis.hub.arcgis.com/) and filling in Virginia manually. The only ones not included being parks (too many and no premade KML I could find) and things like zoos and airports where there was only one option.
 
 For convenience, I also stitched together screenshots into a higher res image to print off, and this time I remembered to actually add a usable distance reference. There's also an inset since the POIs make the center area somewhat hard to read. I got these printed off on 11 x 17 in paper at FedEx with the work discount :) feel free to use the MyMaps or below image if you like, and I'm happy to email you the .kra if you want as well. I know there's a lovely [map generator](https://taibeled.github.io/JetLagHideAndSeek/) available, but I think analog is more fun especially with a smaller game, especially since I get to break out my drafting compass.
 
@@ -115,7 +115,9 @@ Their total hiding time was 2h19m plus 18 minutes in time bonuses for a total of
 
 ## Wrapup
 
-Overall, I think the effort I put into updating the map with common POIs was worth it, makes it way less likely we run into an issue like we did first time where one team saw a golf course and the other team didn't. Similarly, creating clarifications/FAQs about the seeker questions was a useful reference. I'm really happy with my map and think for future games I'm happy to just reuse it. The printout is a *little* clunky but it's definitely in good enough range—maybe I'll extend my ruler out up to 3 miles, but that's about all the changes I really want to make. I don't think we had any disagreements or confusion about questions this run.
+Overall, I think the effort I put into updating the map with common POIs was worth it, makes it way less likely we run into an issue like we did first time where one team saw a golf course and the other team didn't. I'd like to maybe get the wards in there too since finding a good map for that was surprisingly annoying, but MyMaps actually won't let me add any more layers. Maybe I'll put them in the same layer as the boundaries? And also change the 'Game Area' polygon to just lines so it doesn't overlap in a horrid way.
+
+Similarly, creating clarifications/FAQs about the seeker questions was a useful reference. I'm really happy with my map and think for future games I'm happy to just reuse it. The printout is a *little* clunky but it's definitely in good enough range—maybe I'll extend my ruler out up to 3 miles, but that's about all the changes I really want to make. I don't think we had any disagreements or confusion about questions this run.
 
 I still never transcribed the rulebook for easier searching, but the combination of the seeker question reference and the spreadsheet we found with curse text, that was less of a pressing issue this game. I probably will continue to not do it for future games because it worked well enough without it and I'm lazy.
 
