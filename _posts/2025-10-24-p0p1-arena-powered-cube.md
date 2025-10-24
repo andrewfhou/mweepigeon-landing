@@ -48,9 +48,7 @@ Had to mull on these for a bit. Well, not for the power, that one was a snap pic
 <li>Power 9+: <strong>Sol Ring</strong></li>
 </ul>
 	<p>It's gotta be, right? Right? <i>Right??</i></p>
-	<br>
 	<p>This argument has been done to death, but I think Sol Ring's floor is generally higher than Lotus and it's also worth considering that you can't leverage a t1 initiative/monarch creature in this cube unlike the MTGO Vintage Cube, so I'm definitely p1p1 taking Sol Ring over Lotus. If we factor in how p0p1 is scored, with GIHWR... well I honestly don't know how much that changes things, but it might also bein Sol Ring's favor since people may be more liable to misplay Lotus or take it at inappropriate times in the pack.</p>
-	<br>
 	<p>It's definitely better than the rest of the Power, as well as the "honorary" Power here (Library and Mana Crypt). I think if pressed I'd end up on Sol Ring > Lotus > Mana Crypt.</p>
 </p>
 </details>
