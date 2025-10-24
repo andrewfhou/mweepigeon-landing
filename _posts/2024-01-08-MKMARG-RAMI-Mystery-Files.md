@@ -3,7 +3,7 @@ layout: post
 title: Murders at Karlov Manor ARG - RAMI Mystery Files
 date: 2024-01-08 22:59:00 -0400
 categories: RAMI
-tags: mtg MKM RAMI
+tags: mtg MTGMKM RAMI
 ---
 
 **Note:** this is an archive/backup of my original [cohost

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "hello world, goodbye cohost"
-date:   2024-09-09 23:00:00 -0400
-categories: meta
+title: hello world, goodbye cohost
+date: 2024-09-09 23:00:00 -0400
+categories: 
 tags: meta cohost hello-world
 ---
 

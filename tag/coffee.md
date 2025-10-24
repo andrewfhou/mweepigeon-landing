@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: MB2"
-tag: MB2
+title: "Tag: coffee"
+tag: coffee
 robots: noindex
 ---

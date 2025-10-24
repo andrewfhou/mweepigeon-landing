@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Concocting Baleful Brews (Brewing Applejack)
-date: "2025-06-26 20:27:00 -0400"
-categories: 
+date: 2025-06-26 20:27:00 -0400
+categories:
 tags: brewing applejack
 ---
 

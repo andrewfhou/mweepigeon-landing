@@ -2,7 +2,7 @@
 layout: post
 title: I should make chili oil dumplings more
 date: 2024-09-22 21:41:38 -0400
-categories: 
+categories:
 tags: recipes food
 ---
 ![chili oil dumplings](/assets/images/chili-oil-dumplings.jpg)

@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: cons"
-tag: cons
+title: "Tag: MTGMKM"
+tag: MTGMKM
 robots: noindex
 ---

@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: hide+seek"
-tag: hide+seek
+title: "Tag: sydney"
+tag: sydney
 robots: noindex
 ---

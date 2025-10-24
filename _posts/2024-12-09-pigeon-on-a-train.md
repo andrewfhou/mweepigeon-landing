@@ -2,7 +2,7 @@
 layout: post
 title: pigeon on a train
 date: 2024-12-09 18:23:21 -0500
-categories: 
+categories:
 tags: furry mff FurbanismRideMFF24 transit
 ---
 it's a pigeon on a train!
