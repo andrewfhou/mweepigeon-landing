@@ -126,7 +126,7 @@ r/MagicTCG mods have helpfully spun up a new `MKM-ARG` flair, so do reference an
 >
 > The kidnapper is trying to send us a message. Four messages, in fact. But they all lead to the same memory from many years ago.
 
-### [Mystery File 06: The Mysterious Museum](https://cohost.org/mweepigeon/post/4407326-mystery-file-06-the) - SOLVED
+### [Mystery File 06: The Mysterious Museum]({% post_url 2024-02-07-MKMARG-06-Mysterious-Museum %}) - SOLVED
 
 > **Crime Scene: The evidence you need to solve this puzzle can be found on Murders at Karlov Manor Art Cards.**
 >
@@ -136,7 +136,7 @@ r/MagicTCG mods have helpfully spun up a new `MKM-ARG` flair, so do reference an
 >
 > Then fill the rest of the grid with those same letters so that no letter is repeated within any row, column, or 7-square section.
 
-### [Mystery File 07: The Arcane Agency](https://cohost.org/mweepigeon/post/4407424-foundway-associates) - SOLVED
+### [Mystery File 07: The Arcane Agency]({% post_url 2024-02-07-MKMARG-07-Arcane-Agency %}) - SOLVED
 
 > **Crime Scene: The evidence you need to solve this puzzle can be found on certain Murders at Karlov Manor cards.**
 >
@@ -144,7 +144,7 @@ r/MagicTCG mods have helpfully spun up a new `MKM-ARG` flair, so do reference an
 >
 > The indicated letters spell a clue to the answer. You just need to find one more thing…
 
-### [Mystery File 08: The Weird Window](https://cohost.org/mweepigeon/post/4407352-mystery-file-the) - SOLVED
+### [Mystery File 08: The Weird Window]({% post_url 2024-02-08-MKMARG-08-Weird-Window %}) - SOLVED
 
 > **Crime Scene: The evidence you need to solve this puzzle can be found in Murders at Karlov Manor Play Booster Boxes.**
 >
@@ -152,7 +152,7 @@ r/MagicTCG mods have helpfully spun up a new `MKM-ARG` flair, so do reference an
 >
 > Find the window art on the Play Booster Box insert and complete the loop as instructed. Then apply that loop to the grid on this page.
 
-### [Mystery File 09: The Unusual Unlock](https://cohost.org/mweepigeon/post/4407361-mystery-file-the) - SOLVED
+### [Mystery File 09: The Unusual Unlock]({% post_url 2024-02-08-MKMARG-09-Unusual-Unlock %}) - SOLVED
 
 > **Crime Scene: The evidence you need to solve this puzzle is on certain items found in Murders at Karlov Manor play boosters, including one card from the set.**
 >
@@ -161,25 +161,25 @@ r/MagicTCG mods have helpfully spun up a new `MKM-ARG` flair, so do reference an
 > After I’ve deduced the password, this translation chart should be useful.
 
 
-### [Mystery File 10: The Radiant Riddle](https://cohost.org/mweepigeon/post/4407216-hidden-patterns-on-f) - SOLVED
+### [Mystery File 10: The Radiant Riddle]({% post_url 2024-02-08-MKMARG-10-Radiant-Riddle %}) - SOLVED
 
 > **Crime Scene: The evidence you need to solve this puzzle can be found on certain Murders at Karlov Manor cards.**
 >
 > Upon reflection, I realized the only way to foil evil schemes is to shine the light of justice on them. Putting the pieces together may offer only a symbolic victory, but it’s worth pursuing nonetheless.
 
-### [Mystery File 11: The Ruby Ruse](https://cohost.org/mweepigeon/post/4407372-mystery-file-the) - SOLVED
+### [Mystery File 11: The Ruby Ruse]({% post_url 2024-02-08-MKMARG-11-Ruby-Ruse %}) - SOLVED
 
 > **Crime Scene: The evidence you need to solve this puzzle can be found within the Murders at Karlov Manor Bundle.**
 >
 > Your head is spinning, but trace evidence has pointed you in the right direction.
 
-### [Mystery File 12: The Fractured Fingerprint](https://cohost.org/mweepigeon/post/4407419-mystery-file-maz) - SOLVED
+### [Mystery File 12: The Fractured Fingerprint]({% post_url 2024-02-08-MKMARG-12-Fractured-Fingerprint %}) - SOLVED
 
 > **Crime Scene: The evidence you need to solve this puzzle can be found in a variety of X (formerly Twitter) and Instagram posts made between January 31 and February 5, 2024.**
 >
 > I can’t quite put my finger on it . . . because the evidence has been sliced up and scattered. Collect all the pieces that have been posted, reassemble them, and find the way through.
 
-### [Mystery File 13 (the overarching one)](https://cohost.org/mweepigeon/post/4407443-mystery-file-13-the) - SOLVED
+### [Mystery File 13 (the overarching one)]({% post_url 2024-02-08-MKMARG-13-Cunning-Conclusion %}) - SOLVED
 
 
 > **Crime Scene: The evidence you need to solve this puzzle can be found on certain Murders at Karlov Manor cards. You’ll need your solutions from all of the other Mystery Files to complete your investigation.**
@@ -229,22 +229,3 @@ Speculation about vases showing up in the artwork for multiple cards. Most likel
 ## case closed
 
 thanks y'all for reading!
-
-### comments from cohost post
-
-Liam Thomas @junkmail [2024-02-02 22:08]
-
-This is speculation, but given that the token punch-out says it's related to a case, and its back matches the tile pattern on the clue tokens, I bet you overlay the punched-out token thing over the clues to get numbers.
-
-  - mweepigeon @mweepigeon [2024-02-03 12:34]
-
-    Okay it's definitely something, each of the 5 holes "highlights" a different number on the 5 clue tokens, made a render and uploaded
-
-Rachel S. @PositronicWoman [2024-02-07 20:36]
-
-just wanted to say how delightful it is that the progress for the ARG is being thoroughly catalogued on cohost, thank you for your archival work!
-
-  - mweepigeon @mweepigeon [2024-02-07 21:09]
-
-    Thanks! I'm glad people are enjoying it / finding it useful
-
