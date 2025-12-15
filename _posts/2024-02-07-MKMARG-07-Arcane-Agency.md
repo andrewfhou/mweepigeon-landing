@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mystery File 07: The Arcane Agenncy"
+title: "Mystery File 07: The Arcane Agency"
 date: 2024-02-07 17:54:00 -0400
 categories: RAMI
 tags: mtg MTGMKM RAMI
