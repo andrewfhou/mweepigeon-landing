@@ -34,7 +34,9 @@ Of course, now we know that the jigsaw forms our seed entries for a sudoku puzzl
 <img src="/assets/images/RAMI/06-grid-seeded.png" alt="seeded sudoku grid">
 </p></details>
 
-It's not too bad to solve a hand, though you have to make a few guesses if you solve it "normally". There *are* some tricks that can be applied
+<br>
+
+It's not too bad to solve by hand, though you have to make a few guesses if you solve it "normally". There *are* some tricks that can be applied
 
 <details>
 <summary>the mysterious musuem - hint</summary>
@@ -51,8 +53,9 @@ Given this information, and a little trick called <a href="https://www.sudokuwik
 </p>
 </details>
 
+<br>
 <p>
-Here's the full solution, and I've provided a step-by-step within as well for those interested.
+Here's the full solution, and I've provided a step-by-step within as well for those interested:
 </p>
 
 <details>
@@ -93,7 +96,7 @@ Similarly, we can now look at row 1. We know from our meta-knowledge that r1c1 c
 </p>
 
 <p>
-Since r2c5 was down to V/R and now it can no longer be R, it must be V. By Law of Leftovers splitting the right two columns, r5c6 is also V. r2c5 also means that r6c5 must be an I, which means r7c3 is C, which means r7c4 is A, which means r5c5 is R, completing the bottom middle section. Also, we now only have one remaining cell in column 5, which musst be A.
+Since r2c5 was down to V/R and now it can no longer be R, it must be V. By Law of Leftovers splitting the right two columns, r5c6 is also V. r2c5 also means that r6c5 must be an I, which means r7c3 is C, which means r7c4 is A, which means r5c5 is R, completing the bottom middle section. Also, we now only have one remaining cell in column 5, which must be A.
 </p>
 
 <img src="/assets/images/RAMI/06-mysterious-musuem_pencils-3.png" alt="penciled grid 3">
@@ -125,7 +128,7 @@ r5c1 has to be T, r7c1 fills out the column with I, and r5c2 has to be C to comp
 The solved grid is:
 </p>
 
-<img src="https://staging.cohostcdn.org/attachment/5da6a71b-672a-4303-9fbd-741b332e1c14/mysterious-musuem-grid_solved.png" alt="solved sudoku grid">
+<img src="/assets/images/RAMI/06-grid-solved.png" alt="solved grid">
 
 <p>
 Which gives us RTR CCIV, or RTR 204 in roman numerals, which is Treasured Find. The corresponding MKM card is Extract a Confession - the first one we've preemptively guessed!
