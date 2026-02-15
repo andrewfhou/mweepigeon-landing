@@ -54,7 +54,7 @@ minima:
       icon: telegram
       url: "https://t.me/mweepigeon"
     - title: Signal @mweepigeon.3621
-      icon: signal
+      icon: signal-messenger
       url: "https://signal.me/#eu/795NMlfGpC9Wi4srAl-Pt3yG5lD46CEs0oB1DGNwpQ33P7qeUFBB1JNY1BZ9bsLS"
     - title: Bluesky @mweepigeon.gay
       icon: bluesky
@@ -62,10 +62,6 @@ minima:
     - title: Mastodon @mweepigeon@meow.social
       icon: mastodon
       url: "https://meow.social/@mweepigeon"
-    #     - { platform: discord,        user_url: "https://discordapp.com/users/mweepigeon" }
-    #     - { platform: telegram,       user_url: "https://t.me/mweepigeon" }
-    #     - { platform: bluesky,        user_url: "https://bsky.app/profile/mweepigeon.gay" }
-    #     - { platform: twitter,        user_url: "https://twitter.com/mweepigeon" }
 
 # Exclude from processing.
 # The following items will not be processed, by default.
