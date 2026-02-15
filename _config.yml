@@ -53,6 +53,9 @@ minima:
     - title: Telegram @mweepigeon
       icon: telegram
       url: "https://t.me/mweepigeon"
+    - title: Signal @mweepigeon.3621
+      icon: signal
+      url: "https://signal.me/#eu/795NMlfGpC9Wi4srAl-Pt3yG5lD46CEs0oB1DGNwpQ33P7qeUFBB1JNY1BZ9bsLS"
     - title: Bluesky @mweepigeon.gay
       icon: bluesky
       url: "https://bsky.app/profile/mweepigeon.gay"
