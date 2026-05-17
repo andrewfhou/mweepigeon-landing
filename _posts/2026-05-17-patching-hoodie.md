@@ -25,11 +25,14 @@ since I wanted it to be machine washable still, so from the slim pickings
 I ended up with a plain black duck canvas that should contrast well against the
 gray sleeves. Plus, the durability of the canvas should be nice on the elbows.
 
-Since the canvas frayed at the edges, I had to actually do things properly and
-sew two pieces together then turn them to have a nice finished edge. Ended up
-stitching this part by hand since I didn't trust myself doing curves on
-a machine. Also I apparently don't own an iron, so closing it up with a ladder
-stitch sucked ass.
+I drew a rectangle big enough to cover the patch but still leave about an inch
+of margin on the sides, and then used a cup to trace curves onto it for
+a rounded rectangle. Since the canvas frayed at the edges, I had to actually do
+things properly and sew two pieces together then turn them to have a nice
+finished edge. Forgot about seam allowance when making my pattern though, so
+they ended up a bit smaller than planned. I stitched the pieces together by
+hand since I didn't trust myself doing curves on a machine. Also I apparently
+don't own an iron, so closing it up with a ladder stitch sucked ass.
 
 ![finished patches](/assets/images/hoodie-patches.jpg)
 
