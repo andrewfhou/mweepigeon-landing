@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "Patching a Hoodie"
 date: 2026-05-17 00:30:00 -0400
 categories:
 tags: crafts
