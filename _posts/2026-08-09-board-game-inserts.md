@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Board Game Inserts
-date: 2026-08-09 12:48
+title: Making Some Inserts for Reboxed Board Games
+date: 2026-08-09 13:30
 categories:
 tags:
   - board-games
