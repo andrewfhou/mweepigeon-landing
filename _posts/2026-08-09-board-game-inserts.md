@@ -15,8 +15,7 @@ Then recently, I came across [SBG Jackets](https://boardgamegeek.com/geeklist/31
 
 <p><div style="align-items: stretch; display: flex; flex-wrap: wrap; justify-content: space-evenly; text-align: center;">
 <figure style="display: flex; flex-flow: column; margin: 2px; position: relative; text-decoration: none; width: calc(50% - 4px);"><a href=""><img style="height: 100%; margin: 0px; object-fit: cover; width: 100%;" src="/assets/images/insert-sbg.jpg" alt=""></a><figcaption style="font-size: calc(min(4.6vw, 170%) * 0.54); line-height: 100%; margin-top: 0.2rem;">SBG Jacket Inserts</figcaption></figure>
-<figure style="display: flex; flex-flow: column; margin: 2px; position: relative; text-decoration: none; width: calc(50% - 4px);"><a href=""><img style="height: 100%; margin: 0px; object-fit: cover; width: 100%;" src="/assets/images/reboxed-sbg.jpg" alt=""></a><figcaption style="font-size: calc(min(4.6vw, 170%) * 0.54); line-height: 100%; margin-top: 0.2rem;">SBG Jackets in Photo Cases</figcaption></figure>
-</p></details>
+<figure style="display: flex; flex-flow: column; margin: 2px; position: relative; text-decoration: none; width: calc(50% - 4px);"><a href=""><img style="height: 100%; margin: 0px; object-fit: cover; width: 100%;" src="/assets/images/reboxed-sbg.jpg" alt=""></a><figcaption style="font-size: calc(min(4.6vw, 170%) * 0.54); line-height: 100%; margin-top: 0.2rem;">SBG Jackets in Photo Cases</figcaption></figure></p>
 
 Well, they're okay. The trouble here is that it turns out the photo cases do not actually fit 2-wide in a KALLAX cube. I guess the boxes are meant for 4"x6" photos, not 4"x6" themselves—and the Amazon listing didn't have the individual box dimensions.
 
@@ -42,9 +41,8 @@ And voila!
 
 <p><div style="align-items: stretch; display: flex; flex-wrap: wrap; justify-content: space-evenly; text-align: center;">
 <figure style="display: flex; flex-flow: column; margin: 2px; position: relative; text-decoration: none; width: calc(50% - 4px);"><a href=""><img style="height: 100%; margin: 0px; object-fit: cover; width: 100%;" src="/assets/images/reboxed-bastions.jpg" alt=""></a><figcaption style="font-size: calc(min(4.6vw, 170%) * 0.54); line-height: 100%; margin-top: 0.2rem;">Gamegenic Bastion 50+s</figcaption></figure>
-<figure style="display: flex; flex-flow: column; margin: 2px; position: relative; text-decoration: none; width: calc(50% - 4px);"><a href=""><img style="height: 100%; margin: 0px; object-fit: cover; width: 100%;" src="/assets/images/reboxed-boulders.jpg" alt=""></a><figcaption style="font-size: calc(min(4.6vw, 170%) * 0.54); line-height: 100%; margin-top: 0.2rem;">Ultimate GuardBoulder 100+s</figcaption></figure>
-</p></details>
+<figure style="display: flex; flex-flow: column; margin: 2px; position: relative; text-decoration: none; width: calc(50% - 4px);"><a href=""><img style="height: 100%; margin: 0px; object-fit: cover; width: 100%;" src="/assets/images/reboxed-boulders.jpg" alt=""></a><figcaption style="font-size: calc(min(4.6vw, 170%) * 0.54); line-height: 100%; margin-top: 0.2rem;">Ultimate GuardBoulder 100+s</figcaption></figure></p>
 
-I'm quite cleased with how these turned out. They're not perfect, but they look pretty clean and are very recognizable on the shelf. The ones in the Bastions are not actually shrinking the game *that* much (especially For Sale travel edition, which is just about that size already), but the consistency is appealing. Plus, in the case of For Sale, that was not the most durable box in the first place.
+I'm quite pleased with how these turned out. They're not perfect, but they look pretty clean and are very recognizable on the shelf. The ones in the Bastions are not actually shrinking the game *that* much (especially For Sale travel edition, which is just about that size already), but the consistency is appealing. Plus, in the case of For Sale, that was not the most durable box in the first place.
 
 If anyone's interested in these, I'm happy to share the krita file/template I used to make these, or the resultant PDFs, just shoot me a message
