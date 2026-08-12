@@ -47,7 +47,7 @@ minima:
   skin: dark
   date_format: "%Y-%m-%d"
   social_links:
-   - title: Discord @mweepigeon
+    - title: Discord @mweepigeon
       icon: discord
       url: "https://discordapp.com/users/mweepigeon"
     - title: Telegram @mweepigeon
