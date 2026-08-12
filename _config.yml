@@ -65,6 +65,9 @@ minima:
 
 # jekyll-feed config variables
 feed:
+  title: hidden dovecote
+  description: mweep's blog about magic, pens, furry stuff, SFF, and whatever catches their fancy at the moment
+  url: https://mweepigeon.gay/
   icon: /assets/images/favicon-96x96.png
 
 # Exclude from processing.
