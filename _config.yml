@@ -39,6 +39,7 @@ plugins:
 
 header_pages:
   - tags.html
+  - galleries/galleries.md
   - about.md
 
 permalink: pretty
@@ -69,6 +70,9 @@ feed:
   description: mweep's blog about magic, pens, furry stuff, SFF, and whatever catches their fancy at the moment
   url: "https://mweepigeon.gay"
   icon: /assets/images/favicon-96x96.png
+
+# config variables for gallery
+thumbsurl: "/assets/galleries/thumbs/"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
