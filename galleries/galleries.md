@@ -7,7 +7,7 @@ permalink: /galleries/
 ## Art galleries for my fursona, Pigeon.
 {: style="text-align: center;"}
 
-![Pigeon Fursona Reference Sheet (by Mosspond)](/assets/images/refsheet_pigeon-mosspond.png){: .align-center}
+![Pigeon Fursona Reference Sheet (by Mosspond)](/assets/galleries/sfw/001_mosspond_pigeon-ref.png){: .align-center}
 
 <p markdown="1" style="text-align:left;font-size:3em">
     [(SFW)]({% link galleries/sfw.md %})

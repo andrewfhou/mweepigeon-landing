@@ -7,7 +7,7 @@ permalink: /about/
 hi! you can call me mweep, or pigeon ^^ I'm a birb/derg thing, and I use
 they/them pronouns
 
-![Pigeon Fursona Reference Sheet (by Mosspond)](/assets/images/refsheet_pigeon-mosspond.png)
+![Pigeon Fursona Reference Sheet (by Mosspond)](/assets/galleries/sfw/001_mosspond_pigeon-ref.png){: .align-center}
 
 things I might post about:
 

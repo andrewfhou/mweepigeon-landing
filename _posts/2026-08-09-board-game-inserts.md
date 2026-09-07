@@ -1,14 +1,12 @@
 ---
 layout: post
 title: Making Some Inserts for Reboxed Board Games
-date: 2026-08-09 13:30
+date: 2026-08-09 13:30 -0400
 categories:
 tags:
   - board-games
   - crafts
 ---
-# Making Some Inserts for Reboxed Board Games
-
 For awhile now, I've been playing around with reboxing my larger board games into smaller ones. Since I play a lot of Magic, I have loads of spare deckboxes floating around, and they're the first thing I reached for. For awhile now I had Codenames, Machi Koro, and Race for the Galaxy repacked into clear Boulder 100+s. Codenames is a bit tight but *does* fit, and the other two are fairly roomy. That being said, they did look pretty ugly.
 
 Then recently, I came across [SBG Jackets](https://boardgamegeek.com/geeklist/318181/small-box-game-jackets), a series of cardstock insert templates designed to fit inside 4x6 photo boxes, and decided to give em a shot. Picked up a case of photo boxes and abused my work FedEx discount to print off a bunch, aaaand
