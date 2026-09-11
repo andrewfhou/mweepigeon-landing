@@ -105,8 +105,8 @@ most important and prominent, imo.
 
 There is one additional side story you should consider reading, but it is a little bit of a spoiler in and of itself.
 
-<details>
-<summary>
+<details markdown="block">
+<summary markdown="span">
 Click me after you've read Reality Fracture episode 4, but before episode 9
 </summary>
 <br>
