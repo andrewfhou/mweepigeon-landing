@@ -51,6 +51,8 @@ exception, which I mention below: the Zimone side story for SOS,
 [The Math of More](<https://magic.wizards.com/en/news/magic-story/secrets-of-strixhaven-the-math-of-more>),
 seeds some important ideas for Reality Fracture.
 
+You should also read the stories I mention below under **Background Information**, they are large moments in Jace and Vraska's character development and will greatly enhance your appreciation of Reality Fracture.
+
 If you prefer audiobooks, all of the main story episodes have voiced narration
 linked in each of the story episode articles. They were historically done by
 in-house Wizards employees, but starting with EOE they've been hiring
@@ -71,8 +73,6 @@ Obviously, jumping into Episode 6 for DFT/TDM/SOS will be a bit jarring, but
 you can probably figure out much of it from context. This isn't my
 recommendation, but I believe these are the bare minimum stories you should
 read before diving into episode 1 of Reality Fracture
-
-### Chef's Special
 
 Personally, I'd recommend reading the stories for OTJ, DFT, TDM, and SOS in full,
 but the above linked episodes are the crucial ones. ECL's main story is
@@ -102,6 +102,13 @@ makes Reality Fracture's story so excellent is how Lührs pulls on decades of
 Jace stories to craft it. The deeper you get into the man Jace Beleren is, the
 more you'll be rewarded. But Absent Minds and the Ixalan arc are definitely the
 most important and prominent, imo.
+
+There is one additional side story you should consider reading, but it is a little bit of a spoiler in and of itself.
+
+Click the below spoiler after you've read Reality Fracture episode 4, but before episode 9
+
+>! [The Promised End](https://magic.wizards.com/en/news/magic-story/promised-end-2016-07-27)
+>! Note: it may be confusing to jump into this story without context. The Jace POV sections are the important part
 
 ### The SparkNotes
 
