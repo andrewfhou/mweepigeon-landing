@@ -105,10 +105,17 @@ most important and prominent, imo.
 
 There is one additional side story you should consider reading, but it is a little bit of a spoiler in and of itself.
 
-Click the below spoiler after you've read Reality Fracture episode 4, but before episode 9
+<details>
+<summary>
+Click me after you've read Reality Fracture episode 4, but before episode 9
+{: style="display: inline;"}
+</summary>
+<br>
+{: style="display: inline;"}
+[The Promised End](https://magic.wizards.com/en/news/magic-story/promised-end-2016-07-27)
 
->! [The Promised End](https://magic.wizards.com/en/news/magic-story/promised-end-2016-07-27)
->! Note: it may be confusing to jump into this story without context. The Jace POV sections are the important part
+Note: it may be confusing to jump into this story without context. The Jace POV sections are the important part
+</details> 
 
 ### The SparkNotes
 
