@@ -111,7 +111,7 @@ Click me after you've read Reality Fracture episode 4, but before episode 9
 </summary>
 <br>
 
-[The Promised End](https://magic.wizards.com/en/news/magic-story/promised-end-2016-07-27)
+Eldritch Moon Story: [The Promised End](https://magic.wizards.com/en/news/magic-story/promised-end-2016-07-27)
 
 Note: it may be confusing to jump into this story without context. The Jace POV sections are the important part
 </details> 
