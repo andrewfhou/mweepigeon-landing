@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reality Fracture/Metronome Arc Reading List
-date: 2026-09-10T16:53:00-04:00
+date: 2026-09-10 16:53 -0400
 tags: mtg vorthos MTGFRA
 categories:
 ---
