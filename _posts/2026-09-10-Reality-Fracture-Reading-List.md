@@ -9,6 +9,10 @@ categories:
 There's been a lot of buzz about the Reality Fracture story, and let me tell you—it's fantastic. So good.
 Haven't been reading Magic story and want to know how to catch up? I'm here to help!
 
+Also, if you've got any questions, or suggestions of notes to add, feel free to
+reach out to me at mweepigeon@gmail.com, or any of the other socials/contacts
+in the footer.
+
 Reality Fracture will cap off a 3-year (12 set) story which is split into three sub-arcs:
 
 ## Reality Fracture Arcs
