@@ -28,7 +28,7 @@ nearly at all anymore, but I may occasionally talk about that
   stuff
 - public transit is also a mild-to-extreme interest depending on the mood
 
-here are my [telegram stickers](https://telegram.me/addstickers/mweepigeon)!
+here are my [telegram stickers](https://telegram.me/addstickers/mweepigeon)! and my [signal stickers](https://signal.art/addstickers/#pack_id=51a7691a40e13f7bd5714922623ab91e&pack_key=dee176d190b8e513f16febfc3da313eaa48e3ddd4cbffabf9e21a2b63ae40453)!
 
 here is my [moxfield](https://www.moxfield.com/users/mweepigeon)!
 
