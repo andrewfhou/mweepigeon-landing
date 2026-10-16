@@ -85,7 +85,7 @@ Neale LaPlante Johnson (any) - Senior Narrative Designer for Magic IP
 *// some fun discussion about trying to develop flavor, both in-universe and Universes Beyond, for generic draft chaff shitters*
 
 **DK:** We couldn't, based on typelines, fit everything to an existing plane, so as concepters we just get to go 'make something cool' ... we wanted to diversify our spiders, so we ended up looking at lots of spider species and attaching those references ... not everyone had as much fun as I did ... Some of my happy memories too are some of the rare times we were able to reuse unused art that for whatever reason was unable to make it into a previous set
-### I'd love to hear more about the design story of Elesha
+### I'd love to hear more about the design story of Alesha
 **Crystal:** Not sure any of us can speak to this one, I think it's before all of our times
 
 **DK:** I wasn't here in 2016, but did work on TDM and learn about her, bring her back in whatever way that was possible, and for me that ended up being Alesha's Legacy where I was able to directly refer to her. So pretty happy about that
@@ -193,7 +193,7 @@ Neale LaPlante Johnson (any) - Senior Narrative Designer for Magic IP
 
 **Amanda:** I like Huatli a lot, I like that you can have a soft side and a tough side
 
-**Crystal:** I'll say Elesha, she was cool enough to bring me back to Magic. Maybe I'm projecting, but I like when trans women aren't portrayed as adorable little girls and can throw a punch
+**Crystal:** I'll say Alesha, she was cool enough to bring me back to Magic. Maybe I'm projecting, but I like when trans women aren't portrayed as adorable little girls and can throw a punch
 
 **DK:** I'm just gonna say Hugs and call it a day
 
